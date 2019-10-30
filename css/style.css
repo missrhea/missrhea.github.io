@@ -1,12 +1,11 @@
 body{
-    background-color: #FFFFFF;
+    background-color:#CC0633;
     text-align: center;
 }
 #pagecontent{
     background-color: transparent;
-    color: #161F31;
+    color: #CC0633;
     /* border: 2vw solid transparent; */
-    border-image: url(/img/noise.gif) stretch;
     border-image-repeat: repeat;
     border-image-slice: 30;
     min-height: 40vh;
@@ -18,9 +17,8 @@ hr{
     border: 0;
     border-radius: 30%;
     height: 10px;
-    color: #161D31;
+    color: #CC0633;
     background: #161F31;
-    background-image: url(/img/noise.gif);
 }
 p{
     font-size: 1.2em;
