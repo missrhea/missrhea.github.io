@@ -1,0 +1,40 @@
+body{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+#pagecontent{
+    background-color: transparent;
+    color: #161F31;
+    /* border: 2vw solid transparent; */
+    border-image: url(/img/noise.gif) stretch;
+    border-image-repeat: repeat;
+    border-image-slice: 30;
+    min-height: 40vh;
+    margin: 10vh 10vw;
+    padding: 1vw;
+}
+hr{
+    margin: 0;
+    border: 0;
+    border-radius: 30%;
+    height: 10px;
+    color: #161D31;
+    background: #161F31;
+    background-image: url(/img/noise.gif);
+}
+p{
+    font-size: 1.2em;
+    margin-bottom: 1vw;
+
+    font-family: 'Open Sans', sans-serif;
+}
+.title{
+    font-size: 3em;
+    font-family: 'Open Sans', sans-serif;
+}
+.highlight{
+    font-decoration:none;
+}
+a{
+    color: inherit;
+}
