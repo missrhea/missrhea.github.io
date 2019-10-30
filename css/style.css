@@ -4,7 +4,7 @@ body{
 }
 #pagecontent{
     background-color: transparent;
-    color: #CC0633;
+    color: rgb(221, 221, 221);
     /* border: 2vw solid transparent; */
     border-image-repeat: repeat;
     border-image-slice: 30;
