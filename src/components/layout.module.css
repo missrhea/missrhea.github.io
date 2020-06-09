@@ -1,0 +1,19 @@
+.footer {
+    color: gray;
+    text-align: center;
+    font-size: x-small;
+}
+@media(min-width: 600px){
+     .footer{
+         /* color: crimson; */
+     }   
+}
+.list li{
+    margin-left: 10px;
+}
+.layoutDiv{
+    font-family: "Inter", "sans-serif";
+}
+.layoutDiv a:hover {
+    text-decoration: none;
+}
