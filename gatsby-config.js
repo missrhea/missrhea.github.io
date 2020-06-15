@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Rhea Rodrigues`,
+    title: `RR`,
     author: {
-      name: `Rhea`,
-      summary: `I'm working as a Data Scientist for RBC. Gatsby.js is Internet Scale. Forget complicated deploys with databases and servers and their expensive, time-consuming setup costs, maintenance, and scaling fears. Gatsby.js builds your site as “static” files which can be deployed easily on dozens of services.`,
+      name: `Rhea Rodrigues`,
+      summary: `Hi there! My name is Rhea and I'm a Data Science Intern at RBC this summer. This website is presently a work in progress. I'm leveraging Gatsby which has a well documented and straight forward framework.`,
     },
     description: `A personal portfolio website.`,
     siteUrl: `https://macwright.org/about/`,
@@ -79,5 +79,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
+    'gatsby-plugin-dark-mode',
   ],
 }

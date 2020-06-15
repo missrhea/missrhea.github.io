@@ -34,8 +34,10 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
 
+  
+
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location} title={siteTitle} >
       <SEO title="All posts" />
       <Bio />
     </Layout>

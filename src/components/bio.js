@@ -8,16 +8,25 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
-
+import { ThemeToggler } from 'gatsby-plugin-dark-mode'
 import { rhythm } from "../utils/typography"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/rhea-profile-pic.jpg/" }) {
+      avatar1: file(absolutePath: { regex: "/side profile.jpg/" }) {
         childImageSharp {
-          fixed(width: 150, height: 150) {
-            ...GatsbyImageSharpFixed
+          fluid(maxWidth: 250, maxHeight: 250, quality: 100) {
+            ...GatsbyImageSharpFluid_noBase64
+            ...GatsbyImageSharpFluidLimitPresentationSize
+          }
+        }
+      }
+      avatar2: file(absolutePath: { regex: "/side profile dark.jpg/" }) {
+        childImageSharp {
+          fluid(maxWidth: 250, maxHeight: 250, quality: 100) {
+            ...GatsbyImageSharpFluid_noBase64
+            ...GatsbyImageSharpFluidLimitPresentationSize
           }
         }
       }
@@ -36,43 +45,51 @@ const Bio = () => {
   `)
 
   const { author, social } = data.site.siteMetadata
+
+  let imgSrcLight = data.avatar1.childImageSharp.fluid
+  let imgSrcDark = data.avatar2.childImageSharp.fluid
+  
+
+  
+  let i = (<Image
+    fluid={imgSrcLight}
+    alt={author.name}
+    fadeIn={false}
+    // Style affects the wrapper element of Image
+    style={{
+      display: `block`,
+      marginLeft: `auto`,
+      marginRight: `auto`,
+      marginBottom: `0`,
+      borderRadius: `100%`,
+    }}
+    // imgStyle affects the img element only
+    imgStyle={{
+      borderRadius: `50%`,
+      }}
+    />)
+    
+
+
+
   return (
     <div
       style={{
         // display: `flex`,
         marginBottom: rhythm(1.5),
         flexWrap: `wrap`,
-      }}
-    >
-      <div
-      style={{
-        
-      }}
-      >
-      <Image
-        fixed={data.avatar.childImageSharp.fixed}
-        alt={author.name}
-        style={{
-          display: `block`,
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          marginBottom: `0`,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
-      />
+      }}>
+      <div>
+      {i}
       </div>
-      
-      <p>
-        <h3>About Me</h3>
-        <p>{author.summary}</p>
+      <div>
+        <h3>{author.name}, Data Scientist at RBC</h3>
+        
         <p>{author.summary}</p>
         <a href={`https://linkedin.com/in/${social.linkedin}`}>
-          Connect with me on LinkedIn
+          Connect with me on LinkedIn.
         </a>
-      </p>
+      </div>
     </div>
   )
 }

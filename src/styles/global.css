@@ -1,0 +1,134 @@
+  /* Dark mode styles */
+/* .dark-switcher {
+    color: gray;
+    margin-top: 0px;
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+  }
+  @media (min-width: 992px) {
+    .dark-switcher {
+      position: absolute;
+      right: 15px;
+      top: 10px;
+    }
+  }
+  .dark {    background-color: black;
+    color: #fff;
+    transition: all 0.5s ease;
+  }
+  .light {
+    transition: all 0.5s ease;
+    background-color: #fefefe;
+  }
+  .dark a,
+  .dark a:visited {
+    color: #fff;
+  } */
+  body {
+    --bg: white;
+    --textNormal: #222222;
+    --textTitle: #222222;
+    --textLink: #EB4888;
+  
+    background-color: var(--bg);
+  }
+  body blockquote{
+    color: #787878;
+  }  
+  
+  body.dark {
+    -webkit-font-smoothing: antialiased;
+    color: #E5E5E6;
+    --bg: #282C35;
+    --textNormal: #E5E5E6;
+    --textTitle: #E5E5E6;
+    --textLink: #C989A1;
+  }
+  body.dark blockquote{
+    color: #787878;
+  }
+
+ /* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+  }
+  
+  /* Hide default HTML checkbox */
+  .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* The slider */
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: transparent;
+    border: 2px solid #787878;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 18px;
+    width: 18px;
+    left: 4px;
+    bottom: 4px;
+    background-color: #787878;
+    border: 2px solid #787878;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: transparent;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px none;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(30px);
+    -ms-transform: translateX(30px);
+    transform: translateX(30px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 30px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+  .dark-switcher {
+    color: gray;
+    margin-top: 0px;
+    background: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 15px;
+    top: 10px;
+  }
+  /* @media (min-width: 512px) {
+    .dark-switcher {
+      position: absolute;
+      right: 15px;
+      top: 10px;
+    }
+  } */
