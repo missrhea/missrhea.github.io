@@ -6,7 +6,7 @@ module.exports = {
       summary: `Hi there! My name is Rhea and I'm a Data Science Intern at RBC this summer. This website is presently a work in progress. I'm leveraging Gatsby which has a well documented and straight forward framework.`,
     },
     description: `A personal portfolio website.`,
-    siteUrl: `https://macwright.org/about/`,
+    siteUrl: `https://missrhea.github.io/`,
     social: {
       linkedin: `rhearodrigues`,
     },
@@ -56,19 +56,19 @@ module.exports = {
         //trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
-    `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
-      },
-    },
+    // `gatsby-plugin-feed`,
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: `Rhea Rodrigues`,
+    //     short_name: `Rhea`,
+    //     start_url: `/`,
+    //     background_color: `#ffffff`,
+    //     theme_color: `#663399`,
+    //     display: `minimal-ui`,
+    //     icon: `static/favicon.ico`,
+    //   },
+    // },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,

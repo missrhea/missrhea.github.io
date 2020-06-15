@@ -2,12 +2,6 @@ var plugins = [{
       plugin: require('/Users/rhearodrigues/Documents/github/missrhea.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/rhearodrigues/Documents/github/missrhea.github.io/node_modules/gatsby-plugin-feed/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/rhearodrigues/Documents/github/missrhea.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Gatsby Starter Blog","short_name":"GatsbyJS","start_url":"/","background_color":"#ffffff","theme_color":"#663399","display":"minimal-ui","icon":"content/assets/gatsby-icon.png","cache_busting_mode":"query","include_favicon":true,"legacy":true,"theme_color_in_head":true,"cacheDigest":"edf3d310d67f8284a562bc3a58c3e761"},
-    },{
       plugin: require('/Users/rhearodrigues/Documents/github/missrhea.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
