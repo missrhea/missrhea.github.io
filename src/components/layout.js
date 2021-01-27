@@ -50,12 +50,15 @@ const Layout = ({ location, title, children }) => {
         padding: 0,
       }}
       >
-        {/* <li>
-          <Link to={`/`} >Writing</Link>
+        <li>
+          <Link to={`/`} >Home</Link>
         </li>
         <li>
-        <Link to={`/my-second-post`} >Reading</Link>
-        </li> */}
+          <Link to={`/writing`}>Writing</Link>
+        </li>
+        <li>
+        <Link to={`/reading`}>Reading</Link>
+        </li> 
         <li>
         <ThemeToggler>
       {({ theme, toggleTheme }) => {
@@ -71,8 +74,9 @@ const Layout = ({ location, title, children }) => {
             onChange={e => toggleTheme(e.target.checked ? 'dark' : 'light')}
             checked={theme === 'dark'}
           />
-          {/* {theme.dark ? <span>☀</span> : <span>☾</span>} */}
+          {/* {theme.dark ? <span>theme.dark</span> : <span>theme.dark</span>} */}
           <span class="slider round"></span>
+          
         </label>
       )}}
     </ThemeToggler>
@@ -89,14 +93,15 @@ const Layout = ({ location, title, children }) => {
         marginRight: `auto`,
         maxWidth: rhythm(25),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        transition: 'color 0.4s ease-out, background 0.6s ease-out'
+        transition: 'color 0.4s ease-out, background 0.9s ease-out'
       }}
     >
       <header>{header}</header>
+
       <main>{children}</main>
       
       <footer className={styles.footer}>
-        © {new Date().getFullYear()} {data.site.siteMetadata.author.name} 
+        <p>Made with Lots of Love and Tea</p> 
       </footer>
     </div>
   )

@@ -16,6 +16,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+      
       <article>
         <header>
           <h1
@@ -37,11 +38,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           </p>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <footer>
-        </footer>
+        
       </article>
-
-      <nav>
+      {/*
+       <nav>
         <ul
           style={{
             display: `flex`,
@@ -66,7 +66,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             )}
           </li>
         </ul>
-      </nav>
+      </nav> */}
     </Layout>
   )
 }

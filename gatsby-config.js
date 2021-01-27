@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `RR`,
+    title: `Rhea Rodrigues`,
     author: {
       name: `Rhea Rodrigues`,
       summary: `Hi there! My name is Rhea and I'm a Data Science Intern at RBC this summer. This website is presently a work in progress. I'm leveraging Gatsby which has a well documented and straight forward framework.`,
@@ -15,8 +15,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/writing`,
+        name: `writing`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/reading`,
+        name: `reading`,
       },
     },
     {
