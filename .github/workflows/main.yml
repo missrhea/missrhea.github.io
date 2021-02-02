@@ -1,13 +1,25 @@
-name: Gatsby Publish
+# The name of the workflow as it will appear in the Actions tab of the GitHub repository.
+name: "Publish my Gatsby site to GitHub Pages."
 
+
+# Specifies the "event" that automatically triggers the workflow file.
+# Here, a push to the dev branch will trigger the jobs below to run.
 on:
   push:
     branches:
       - dev
 
+# This workflow is made up of one job.
 jobs:
+  # The job is called "build"
   build:
+    # Configures the runner. This job will run on an Ubuntu Linux virtual machine.
     runs-on: ubuntu-latest
+    # Define the steps to perform the "build" job
+    # 1. Check out this repository to the runner, now it is possible to run actions against the code
+    # 2. Build and deploy the website using the community action
+    # Configure the access token to allow pushing the build to the repository
+    # Configure the branch that GitHub accepts as source of the static files. 
     steps:
       - uses: actions/checkout@v1
       - uses: enriikke/gatsby-gh-pages-action@v2
