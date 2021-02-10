@@ -3,15 +3,23 @@ module.exports = {
     title: `Rhea Rodrigues`,
     author: {
       name: `Rhea Rodrigues`,
-      summary: `Hi there! My name is Rhea and I'm a Data Science Intern at RBC this summer. This website is presently a work in progress. I'm leveraging Gatsby which has a well documented and straight forward framework.`,
+      summary: `Rhea has a Masters degree in Computer Science, she works as a Data Scientist from Vancouver.`,
     },
-    description: `A personal portfolio website.`,
+    description: `Rhea's personal website. The views and opinions expressed are those of the author.`,
     siteUrl: `https://missrhea.github.io/`,
     social: {
       linkedin: `rhearodrigues`,
     },
   },
   plugins: [
+    `gatsby-plugin-catch-links`,
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -76,13 +84,6 @@ module.exports = {
     //     icon: `static/favicon.ico`,
     //   },
     // },
-    `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
