@@ -13,12 +13,7 @@ const WritingList = () => {
 
     const data = useStaticQuery(graphql`
     query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },
+      allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC },
                           filter: {fileAbsolutePath: {regex: "/content/writing/"}}) {
           edges {
             node {
@@ -38,8 +33,6 @@ const WritingList = () => {
     `)
 
     const posts = data.allMarkdownRemark.edges
-  
-  
       return (
         posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug

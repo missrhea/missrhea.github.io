@@ -10,7 +10,7 @@ import SEO from "../components/seo"
   const siteTitle = data.site.siteMetadata.title
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="All posts" />
+      <SEO title={siteTitle} />
       <Bio />
     </Layout>
   )

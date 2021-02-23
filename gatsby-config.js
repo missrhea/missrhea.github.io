@@ -3,12 +3,12 @@ module.exports = {
     title: `Rhea Rodrigues`,
     author: {
       name: `Rhea Rodrigues`,
-      summary: `Rhea has a Masters degree in Computer Science, she works as a Data Scientist from Vancouver.`,
+      summary: `Rhea has a Masters degree in Computer Science, and works as a Data Scientist.`,
     },
     description: `Rhea's personal website. The views and opinions expressed are those of the author.`,
     siteUrl: `https://missrhea.github.io/`,
     social: {
-      linkedin: `rhearodrigues`,
+      linkedin: `https://linkedin.com/in/rhearodrigues`,
     },
   },
   plugins: [
@@ -18,6 +18,13 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/pages`,
+        name: `pages`,
       },
     },
     {

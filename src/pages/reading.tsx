@@ -29,13 +29,13 @@ type Data = {
     }
   }
 
-const DisplayReadingList = ({ data, location }: PageProps<Data>) => {
+const Reading = ({ data, location }: PageProps<Data>) => {
 
   const siteTitle = data.site.siteMetadata.title
 
     return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="DisplayReadingList" />
+      <SEO title="Reading" />
       <div>
       <ReadingList/>
       </div>
@@ -43,7 +43,7 @@ const DisplayReadingList = ({ data, location }: PageProps<Data>) => {
     )
 }
 
-export default DisplayReadingList
+export default Reading
 
 export const pageQuery = graphql`
   query {

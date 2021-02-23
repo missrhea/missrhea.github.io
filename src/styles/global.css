@@ -33,6 +33,10 @@
     --textLink: #EB4888;
   
     background-color: var(--bg);
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
   body blockquote{
     color: #787878;
