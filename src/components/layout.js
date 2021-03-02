@@ -99,7 +99,7 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       
       <footer className={styles.footer}>
-        <p>Made with Lots of <span role="img">♥️</span> and <span role="img">☕</span></p> 
+        <p>Made with lots of <span>♥️</span> and <span role="img">☕</span></p> 
       </footer>
     </div>
   )

@@ -41,7 +41,7 @@
   body blockquote{
     color: #787878;
   }  
-  
+
   body.dark {
     -webkit-font-smoothing: antialiased;
     color: #E5E5E6;
@@ -52,6 +52,17 @@
   }
   body.dark blockquote{
     color: #787878;
+  }
+
+
+  body.dark ::selection {
+    color:  #222222;
+    background:  #C989A1;
+  }
+
+  body ::selection {
+    color:   white;
+    background:  #EB4888;
   }
 
  /* The switch - the box around the slider */

@@ -13,16 +13,22 @@ export default function Template({ data, location }){
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <Helmet title={ `${data.site.siteMetadata.title}`}  defer={false} />
+      <Helmet title={ `${post.frontmatter.title}`}  defer={false} />
         <h1 style={{
               marginBottom: 0,
             }}
         >{post.frontmatter.title}</h1>
         <p style={{
               ...scale(-1 / 5),
-              marginBottom: rhythm(1),
+              marginBottom: rhythm(0),
             }}
         >{post.frontmatter.date}</p>
+        <p style={{
+              ...scale(-1 / 5),
+              marginBottom: rhythm(1),
+            }}
+        >{post.frontmatter.rating}</p>
+        
         <div className="blog-post-content"
              dangerouslySetInnerHTML={{__html: post.html}}
         />
@@ -44,6 +50,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        rating
         date(formatString: "MMMM DD, YYYY")
         description
       }

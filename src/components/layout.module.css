@@ -1,18 +1,23 @@
 .footer {
     color: #787878;
     text-align: center;
-    font-size: x-small;
+    font-size: small;
     padding-top: 50px;
 }
-@media(min-width: 600px){
-     .footer{
-         /* color: crimson; */
+
+.footer p span{
+          color: crimson; 
      }   
-}
+
 .list li{
-    margin-left: 10px;
+    margin-left: 0px;
     font-weight: 550;
 }
+.list li a{
+    margin-left: 20px;
+    font-weight: 550;
+}
+
 .layoutDiv{
     font-family: "Inter", "sans-serif";
 }
