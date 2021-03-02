@@ -1,7 +1,7 @@
 ---
-title: Spy Traitor
-date: "2021-01-09T05:34:21Z"
-author: someone
+title: 'The Spy and the Traitor: The Greatest Espionage Story of the Cold War'
+date: "2021-01-07T05:34:21Z"
+author: Ben Macintyre
 rating: ⭐⭐⭐⭐⭐
 ---
 
@@ -10,7 +10,36 @@ body {
 text-align: justify}
 </style>
 
-I enjoyed this book so much! Wonderful prose and a beautiful compelling story. It transported me to another time and place- I adore how the author describes the details of the British countryside mansion. The author conveys a beautiful message very subtlety through Stevens the Butler. It’s a book that touches on the themes of blind loyalty, a life spent striving for perfectionism, withholding emotions at the risk of seeming unprofessional. I truly felt for Stevens towards the end of the book. He lived his life as best he could in line with his principles and never lost sight of his life’s purpose even at the near end. A favourite line and narration of mine is towards the end and it is “the evening is the best part of the day”. This book certainly left me with a lot to reflect on.
 
-“the evening is the best part of the day”
-― Kazuo Ishiguro, The Remains of the Day
+# 🚀 Summary in 3 points
+1. The book follows a KGB (which was the Soviet Union intelligence agency) agent, Oleg Gordievsky's life as a double agent. A KGB agent on one hand, and a spy for the British Intelligence agency MI6 on the other.
+2. The reason he betrayed his own country was for ideological and political reasons. During his first posting in Copenhagen, Denmark he experiences the western world's culture, music, literature that was banned/ censored in the Soviet Union. He also witnessed the building of the Berlin Wall, he is moved by the atrocious crushing of the rebellion against Soviet rule in Hungary and the Prague Spring. He wanted to find out as much as he could about the system he had come to loath and detest, and destroy it with MI6.
+3. During his London posting, he moves up in the London KGB ranks. At this time he also passes on troves of intelligence to MI6. By the time he is appointed the head of the London operations, he is identified as a mole by Aldrich Ames. He is summoned to Moscow, monitored, drugged, interrogated, loses his new job title, but due to lack of evidence he is not convicted. He defects to Britain with the help of an MI6 escape plan. It is thrilling, page-turning, and a fortuitous miracle.
+
+# 🎨 Impressions
+
+It was fascinating to see every country partake in mind games, competitive rivalries among allies, and treacherous deception among adversaries.
+
+The author's narration is immaculate. It does not feel like names, operations, plots are being hurled at you despite the wealth of information. Macintyre weaves the happenings across several different time zones seamlessly. The escape plan has one of the best plot twists. It is a compelling story, that is too good to be true- albeit it is!
+
+## How I Discovered It
+
+It was on Bill Gates' 2020's Books for a Lousy Year list.
+
+## Who Should Read It?
+
+Literally anyone looking for a superb thriller! That also happens to be a true story!
+
+The bonus is that you'd gain a ton of knowledge about international politics, get an inside look into the KGB and the Soviet Union's communist regime during the Cold War, the Spycraft, intellectual treachery, deceit, and loyalty.
+
+# ☘️ How the Book Changed Me
+
+I learned about the extent of the Soviet Union's enforcement of communism. My history lessons are vague, and before this book, I did not appreciate the severity of what Communism meant. The book also put into perspective the sentiments and tensions on either side of the iron curtain.
+
+# ✍️ My Top 3 Quotes
+
+- Her life had been destroyed by politics and the secret choices made by a man she had loved deeply, and trusted completely, but had never fully known. “He did what he believed in, and I respect him for that. But he didn’t ask me. He involved me without my choice. He didn’t allow me to choose. From his point of view, he was my savior. But who put me in the shit-hole? He’d forgotten the first part. You can’t kick someone off a cliff and then put out a hand and say: ‘I saved you!’ He was so bloody Russian.” Leila could not forget, or get over, what had happened to her.
+
+- one of Stalin’s spymasters, had this advice for his officers seeking to recruit spies in Western countries: “Search for people who are hurt by fate or nature—the ugly, those suffering from an inferiority complex, craving power and influence but defeated by unfavorable circumstances….In cooperation with us, all these find a peculiar compensation. The sense of belonging to an influential and powerful organization will give them a feeling of superiority over the handsome and prosperous people around them.” For many years, the KGB used the acronym MICE to identify the four mainsprings of spying: Money, Ideology, Coercion, and Ego. But there is also romance, the opportunity to live a second, hidden life. Some spies are fantasists.
+
+- Paranoia is born of propaganda, ignorance, secrecy, and fear. The KGB’s London station in 1982 was one of the most profoundly paranoid places on earth, an organization imbued with a siege mentality largely based on fantasy.
