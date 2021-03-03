@@ -37,6 +37,8 @@ const Reading = ({ data, location }: PageProps<Data>) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Reading" />
       <div>
+      <h1>Reading</h1>
+      <hr></hr>
       <ReadingList/>
       </div>
     </Layout>

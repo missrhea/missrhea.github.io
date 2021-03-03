@@ -22,7 +22,7 @@ const ReadingList = () => {
                 slug
               } 
               frontmatter {
-                date(formatString: "DD-MM-YYYY")
+                date(formatString:"Do MMM YYYY")
                 author
                 rating
                 title

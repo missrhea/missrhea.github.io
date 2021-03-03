@@ -3,12 +3,12 @@ module.exports = {
     title: `Rhea Rodrigues`,
     author: {
       name: `Rhea Rodrigues`,
-      summary: `Rhea has a Masters degree in Computer Science, and works as a Data Scientist.`,
     },
     description: `Rhea's personal website. The views and opinions expressed are those of the author.`,
     siteUrl: `https://missrhea.github.io/`,
     social: {
       linkedin: `https://linkedin.com/in/rhearodrigues`,
+      twitter: `https://twitter.com/rheardgs`
     },
   },
   plugins: [

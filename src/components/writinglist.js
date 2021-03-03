@@ -18,11 +18,12 @@ const WritingList = () => {
           edges {
             node {
               excerpt
+              timeToRead
               fields {
                 slug
               }
               frontmatter {
-                date(formatString: "DD-MM-YYYY")
+                date(formatString: "Do MMM YYYY")
                 title
                 description
               }
@@ -46,6 +47,7 @@ const WritingList = () => {
                 <time>{node.frontmatter.date}</time>
                 <p>
                     {node.frontmatter.description}
+                    <p className={styles.timeToRead}> {node.timeToRead} min read </p>
                 </p>
             </div>
           )

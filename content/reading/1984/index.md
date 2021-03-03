@@ -1,5 +1,5 @@
 ---
-title: 1984
+title: "1984"
 date: "2019-05-12T05:20:56Z"
 author: George Orwell
 rating: ⭐⭐⭐⭐

@@ -1,9 +1,9 @@
 .writinglist{
     display: grid;
-    grid-column-gap: 5px;
+    grid-column-gap: 10px;
     grid-row-gap: 0px;
     grid-template-columns: 1fr min-content;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 0.25fr min-content;
     padding-bottom: 20px;
 }
 
@@ -11,22 +11,24 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-weight: 400;
 }
 
 .writinglist p {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-size: small;
-    margin-bottom: -25px;
+    margin-top: -5px;
 }
 
 .writinglist time {
     white-space: pre;
-    font-size: small;
 }
 
+.writinglist .timeToRead{
+    font-size: small;
+    color: grey;
+    font-style: italic;
+}
 
 .readinglist{
     display: grid;

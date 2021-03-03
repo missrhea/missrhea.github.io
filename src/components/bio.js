@@ -25,10 +25,10 @@ const Bio = () => {
         siteMetadata {
           author {
             name
-            summary
           }
           social {
             linkedin
+            twitter
           }
         }
       }
@@ -64,11 +64,24 @@ const Bio = () => {
   return (
     <div>
       {i}
-      <h3>{author.name}</h3>
-      <p>{author.summary}</p>
-      <a target="_blank" href={`${social.linkedin}`}>
-        Connect with me on LinkedIn.
-      </a>
+      <div className="connect">
+          <a target="_blank" href={`${social.linkedin}`}>
+            linkedin  
+          </a> 
+          <a target="_blank" href={`${social.twitter}`}>
+            twitter
+          </a>
+          <a target="_blank" href={`mailto:rhea49rdgs@gmail.com`}>
+            email
+          </a>
+          <a target="_blank" href="https://github.com/missrhea">
+            github
+          </a>
+      </div>
+
+      <h2>Hi!</h2>
+      <p>a bio</p>
+      
     </div>
   )
 }

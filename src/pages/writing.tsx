@@ -36,6 +36,8 @@ const Writing = ({ data, location }: PageProps<Data>) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Writing" />
       <div>
+      <h1>Writing</h1>
+      <hr></hr>
       <WritingList/>
       </div>
     </Layout>
