@@ -4,9 +4,12 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import { rhythm, scale } from "../utils/typography"
+import Img from "gatsby-image"
 
 export default function Template({ data, location }){
   const { markdownRemark : post} = data // data.markdownRemark holds your post data
+  // const featuredImgFluid = post.frontmatter.featuredImage.childImageSharp.fluid
+
   return(
     <Layout location={location} title={data.site.siteMetadata.title}>
       <SEO
@@ -30,6 +33,11 @@ export default function Template({ data, location }){
               marginBottom: rhythm(1),
             }}
         >{post.frontmatter.rating}</p>
+
+        {/* <Img style={{
+              marginBottom: rhythm(1),
+            }}
+            fluid={featuredImgFluid} /> */}
         
         <div className="blog-post-content"
              dangerouslySetInnerHTML={{__html: post.html}}
@@ -55,7 +63,15 @@ export const pageQuery = graphql`
         rating
         date(formatString: "MMMM DD, YYYY")
         description
+        
       }
     }
   }
 `
+/*featuredImage{
+          childImageSharp {
+            fluid(maxWidth: 200) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }*/

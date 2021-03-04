@@ -1,15 +1,13 @@
 ---
 title: "Hosting With GitHub Pages"
 date: "2021-02-02T05:20:56Z"
-description: "The original chai, no chai-tea silliness ☕"
+description: "Host your static site for free with GitHub Pages."
+featuredImage: ./dummy_img.jpg
 ---
 <style>
-
 body {
-
 text-align: justify
 }
-
 </style>
 
 
@@ -24,11 +22,11 @@ Create a new branch and name it `gh-pages`- don't change the name since the gh-p
 **3. Set  `gh-pages` as the publishing source**
 In the Setting tab for this repository under the GitHub Pages section, set the Source as this `gh-pages` branch. So the website will be published from the `gh-pages` branch, and not from the default "master" branch. 
 
-![enter image description here](#)
+![gh-pages](./gh-pages.png)
 
-- There is a reason for not using the `master` branch as the publishing source for the website. 
-	- When the build for the website is created using the `gatsby build` command, Gatsby will build everything needed to deploy the static website. This build will include the static HTML pages, JSON files, transformed images, markdown files. These files are placed in the `./public` directory and it looks very messy. 
-	- However, the publishing source for my GitHub Pages website must be able to read the contents in the `./public` directory. To avoid this clutter on the default `master` branch  I prefer to have these files on another branch.
+Here is the explaination for not using the `master` branch as the publishing source for the website. 
+- When the build for the website is created using the `gatsby build` command, Gatsby will build everything needed to deploy the static website. This build will include the static HTML pages, JSON files, transformed images, markdown files. These files are placed in the `./public` directory and it looks very messy. 
+- However, the publishing source for my GitHub Pages website must be able to read the contents in the `./public` directory. To avoid this clutter on the default `master` branch  I prefer to have these files on another branch.
 
 
 **4. Build and push to the remote  `gh-pages` branch**
@@ -42,18 +40,18 @@ This can be achieved with a simple deploy script in the `package.json` file. The
 - `$ gh-pages -d public`
 **This command will push the contents of the `./public` directory to the remote `gh-pages` branch.** Then Github Pages will publish the contents of this branch. 
 
-	The Gatsby docs outline the steps using the gh-pages package in detail [here](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/#installing-the-gh-pages-package). This is why I named the source branch `gh-pages`. Because the gh-pages package requires this name.
-    
-	Install the gh-pages package with,
+The Gatsby docs outline the steps using the gh-pages package in detail [here](https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/#installing-the-gh-pages-package). This is why I named the source branch `gh-pages`. Because the gh-pages package requires this name.
 
-	    $ npm install gh-pages --save-dev
+Install the gh-pages package with,
+
+```$ npm install gh-pages --save-dev```
 
 Now put these two commands together in a deploy script in the `package.json` file.
-```
-{
+
+```{
  "scripts": {
-  "deploy": "gatsby build && gh-pages -d public"
- }
+  		"deploy": "gatsby build && gh-pages -d public"
+ 	}
 }
 ```
 Execute this deploy script with `$ npm run deploy`. This will build the site and push the contents of the `./public` directory to the (remote) `gh-pages` branch.

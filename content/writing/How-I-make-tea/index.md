@@ -1,16 +1,15 @@
 ---
 title: How to make Chai
 date: "2021-01-21T04:33:36Z"
-description: "This is a post about how I make my Chai☕"
+description: "This is a post about how I make my Chai ☕"
+featuredImage: ./chai_hand.jpg
 ---
 
 <style>
 body {
 text-align: justify}
 </style>
-
-
-![chai](./chai_hand.jpg)
+![Chai](./chai_hand.jpg)
 
  This is a post about how I make my Chai every morning. I prepare my tea so that it has a strong flavor. This means boiling the tea leaves for a little longer than required. To balance out the intense flavor I suggest using whole milk. This works best with loose leaf black tea (I like a couple of Indian brands I prefer) and grated ginger. If I’m feeling fancy I might add a couple of other spices.
 
