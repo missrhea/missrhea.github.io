@@ -13,14 +13,16 @@ export default function Template({ data, location }){
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <Helmet title={ `${post.frontmatter.title}`}  defer={false} />
+      <Helmet title={ `${post.frontmatter.title}`}  defer={false} />        
         <h1 style={{
-              marginBottom: 0,
+              marginBottom: rhythm(0),
+              marginTop: rhythm(1) ,
             }}
         >{post.frontmatter.title}</h1>
         <p style={{
               ...scale(-1 / 5),
               marginBottom: rhythm(0),
+              marginTop: rhythm(0),
             }}
         >{post.frontmatter.date}</p>
         <p style={{
