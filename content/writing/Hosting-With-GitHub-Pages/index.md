@@ -48,7 +48,8 @@ Install the gh-pages package with,
 
 Now put these two commands together in a deploy script in the `package.json` file.
 
-```{
+```
+{
  "scripts": {
   		"deploy": "gatsby build && gh-pages -d public"
  	}

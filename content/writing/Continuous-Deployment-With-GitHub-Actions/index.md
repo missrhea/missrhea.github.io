@@ -55,7 +55,7 @@ For the second step, [this](https://github.com/enriikke/gatsby-gh-pages-action) 
 
 I modified the community action to work with my website. In particular I configured the access token and the source branch. The **workflow** is defined inside the `./github/workflows/main.yml` file. This is my workflow definition, 
 
-`gist:missrhea/0c2580ccea6ad5621a9dd72646ffd90a#main.yml`
+`gist:missrhea/0c2580ccea6ad5621a9dd72646ffd90a`
 
 
 And we're done! Now each time I run the `git push` command the workflow will be triggered and a new version of my website will be deployed automatically!
