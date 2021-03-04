@@ -22,7 +22,7 @@ Create a new branch and name it `gh-pages`- don't change the name since the gh-p
 **3. Set  `gh-pages` as the publishing source**
 In the Setting tab for this repository under the GitHub Pages section, set the Source as this `gh-pages` branch. So the website will be published from the `gh-pages` branch, and not from the default "master" branch. 
 
-![gh-pages](./gh-pages.png)
+>![gh-pages](./gh-pages.png)
 
 Here is the explaination for not using the `master` branch as the publishing source for the website. 
 - When the build for the website is created using the `gatsby build` command, Gatsby will build everything needed to deploy the static website. This build will include the static HTML pages, JSON files, transformed images, markdown files. These files are placed in the `./public` directory and it looks very messy. 

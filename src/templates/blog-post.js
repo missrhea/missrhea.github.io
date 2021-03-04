@@ -4,7 +4,7 @@ import { graphql } from "gatsby"
 import SEO from "../components/seo"
 import Layout from "../components/layout"
 import { rhythm, scale } from "../utils/typography"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
 export default function Template({ data, location }){
   const { markdownRemark : post} = data // data.markdownRemark holds your post data
