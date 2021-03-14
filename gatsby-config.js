@@ -14,13 +14,14 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-google-gtag`,
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: [`G-3ZVV268DLX`,],
-        pluginConfig: {
-          // Puts tracking script in the head instead of the body
-          head: true,
-        },
+        // The property ID; the tracking code won't be generated without it
+        trackingId: ["G-3ZVV268DLX", "UA-189753050-1"],
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: true,
+        // Setting this parameter is optional
+        anonymize: true,
       },
     },
     `gatsby-plugin-catch-links`,
