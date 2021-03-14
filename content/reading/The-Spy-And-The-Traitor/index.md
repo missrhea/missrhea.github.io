@@ -20,7 +20,7 @@ text-align: justify}
 
 It was fascinating to see every country partake in mind games, competitive rivalries among allies, and treacherous deception among adversaries.
 
-The author's narration is immaculate. It does not feel like names, operations, plots are being hurled at you despite the wealth of information. Macintyre weaves the happenings across several different time zones seamlessly. The escape plan has one of the best plot twists. It is a compelling story, that is too good to be true- albeit it is!
+The author's narritive is spirited. It does not feel like names, operations, plots are being hurled at you despite the wealth of information. Macintyre weaves events in different periods of time seamlessly. The final escape plan has a fortuitous plot twist. It is a compelling story, that is too good to be true- albeit it is!
 
 ## How I Discovered It
 
@@ -30,11 +30,11 @@ It was on Bill Gates' 2020's Books for a Lousy Year list.
 
 Literally anyone looking for a superb thriller! That also happens to be a true story!
 
-The bonus is that you'd gain a ton of knowledge about international politics, get an inside look into the KGB and the Soviet Union's communist regime during the Cold War, the Spycraft, intellectual treachery, deceit, and loyalty.
+Dont be put off by the thought of the Cold War and political machinations, this is far from dull or stuffy. It reads like a thriller. Vibrant, exciting, informative, and occasionally humourous.
 
 # ☘️ How the Book Changed Me
 
-I learned about the extent of the Soviet Union's enforcement of communism. My history lessons are vague, and before this book, I did not appreciate the severity of what Communism meant. The book also put into perspective the sentiments and tensions on either side of the iron curtain.
+I learned the extent of the Soviet Union's enforcement of communism. My history lessons are vague, and before this book, I did not appreciate the severity of what Communism meant. The book also put into perspective inner workings of the intelligence services of the UK, Soviet Union and USA during a period of increasing instability.
 
 # ✍️ My Top 3 Quotes
 
