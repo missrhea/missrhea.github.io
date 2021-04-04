@@ -40,11 +40,11 @@ Intuitively, f = O(g) means that **f does not grow faster than g**.
 
 Saying "f=O(g)" is a loose analog of "f <= g". Similarly, there are definitions for >= and =. So we have, 
 
-Big O: f=O(g) means f<=C*g(n) for n>N
+**Big O**: f=O(g) means f<=C*g(n) for n>N
 
-Big Omega: f=Ω(g) means g=O(f)
+**Big Omega**: f=Ω(g) means g=O(f)
 
-Big Theta: f=Θ(g) means f=O(g) and f=Ω(g)
+**Big Theta**: f=Θ(g) means f=O(g) and f=Ω(g)
 
 
 ### Abstracting away the implementation details
@@ -64,15 +64,22 @@ As n -> ∞ the highest order term will determine the rate of growth of the algo
 >Sometimes true. example: f(n)=n and counterexample: f(n) = 1/n.
 
 ### Some Perspective
-Assume we have a budget of one week with one operation requiring 1 milli second. One week has 604,800,000 milli seconds. The different input sizes we can process with algorithms of different complexities in a week are,
+Assume we have a budget of one week and one operation requires 1 milli second. Now, one week has 604,800,000 milli seconds. That is aprroximately 604 Million milli seconds. Let's say we have a bunch of different tasks that require different algorithms. 
+
+For instance, we might have a linear search task with O(n) time complexity and a sorting task with a worst-case complexity of O(n<sup>2</sup>). We still have only one week and the same processing power for any algorithmic task. The maximum input size that can be processed by any algorithm in a week is shown in the following table.  
 
 |Algorithm|Time Complexity|Maximum Objects Best Processed  |
 |--|--|--|
-| Scanning| O(n) | 604 Million |
+| Linear Search| O(n) | 604 Million |
 | Sorting| O(nlogn) | 604 Million |
 | Sorting worst-case| O(n<sup>2</sup>) | 25,000 |
 | Set cover| O(2<sup>n</sup>) | 29 |
- 
+
+To elaborate, let's consider the set cover task. Don't worry about the details of the set cover problem now, just know that it has a time complexity of O(2<sup>n</sup>). In a week we have approximately 604 Million milli seconds of processing power. So we ask, *"what is the largest n for which 2<sup>n</sup> in within the 604 Million milli second mark?"*. The answer to that question is, n = log<sub>2</sub>(604,800,000) = 29. In a week we can only solve the set cover problem for an input size of n = 29. Such is the curse of time complexity.
+
+As a final example, with a algorithmic time complexity of O(n<sup>2</sup>), we will be able to process n = $\sqrt{604,800,000}$ = 25,000. So in one week we can sort through a maximum of 25,000 items.
+
+Isn't the one week requirement to process 25,000 items absurd these days? Yes, it is. Firstly, the processors today are way faster than the 1 operation per milli second processor in the example. Indeed, according to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) we can expect the speed and capability of our processors to increase every couple of years, and they will become cheaper. Secondly, the algorithms are designed to be highly optimzed for specific tasks.
 
 # References
 * [Big O Cheat Sheet](https://www.bigocheatsheet.com/)
