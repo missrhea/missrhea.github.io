@@ -1,7 +1,7 @@
 ---
 title: Building Software Better With Docker
 date: "2021-04-03T15:33:36Z"
-description: "Docker, containerization and how it improves the software development experience."
+description: "Docker, containerization and how it improves software development."
 ---
 
 <style>
