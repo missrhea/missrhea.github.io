@@ -8,6 +8,10 @@ featuredImage: ./squash_img.jpeg
 body {
 text-align: justify
 }
+
+code{
+    color:#E9BC3E
+}
 </style>
 >Not the squash we will perform with git.
 ![Not the squash we will perform with git.](./squash_img.jpeg)

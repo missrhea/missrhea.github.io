@@ -8,6 +8,9 @@ featuredImage: ./dummy_img.jpg
 body {
 text-align: justify
 }
+code{
+    color:#E9BC3E
+}
 </style>
 
 

@@ -8,6 +8,9 @@ featuredImage: ./dummy.png
 <style>
 body {
 text-align: justify}
+code{
+    color:#E9BC3E
+}
 </style>
 
 Knowing how complicated a task is will be an important factor in deciding whether the task is worth doing to achieve some outcome. Similarly, knowing how complicated an algorithm is will be a strong indicator of whether to use it or not to achieve some outcome. In our day-to-day life, we might decide how complex a task is based on how much time it will take, how far do I have to travel, do I have the money and resources for this task, etc. How do we decide how complex an algorithm is? We use the Big O Notation for that. 
