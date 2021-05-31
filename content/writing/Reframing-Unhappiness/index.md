@@ -1,8 +1,7 @@
 ---
 title: Reframing Unhappiness
 date: "2021-05-23T04:33:36Z"
-description: "How novelty relates to happiness and the lack of it."
-featuredImage: ./dummy.jpg
+description: "Unlearning what it means to be unhappy."
 ---
 
 <style>
