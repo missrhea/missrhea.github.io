@@ -10,7 +10,7 @@ text-align: justify
 }
 </style>
 
-
+![ml+devops](./ml+devops.png)
  > This article discusses how Data Science efforts must include deployment of models, challenges associated with it, and in particular reproducibility- what it means and how we can measure it. 
 
 Let’s say that you just pushed a high-performing model to production. You’re done, right?
@@ -73,6 +73,7 @@ A quick glance at the different aspects of ML and their different concerns depen
 
 A Data Scientist might have perfected modeling in the research environment, but when it comes to deploying the model in a production environment there is a tendency to look the other way. To be fair, ML applications in industry are relatively new (compared to Software Development). Most people gain ML expertise through academia i.e. reading papers, taking courses, and research work. Which means little to no incentive for them to pay attention to productionizing a model. This is exactly where I was until I began working as a Data Scientist which was a reality check about how different ML in the industry was from my academic training.
 
+![ml-researcher-software-engineering-best-practices](./ml-researcher-software-engineering-best-practices.png)
 
 The knowledge around productionizing models evolved in the industry since there was nowhere else to look for help. The practices involved in the online stage have been tried and tested by professionals in the industry. Today we can take advantage of their efforts, and learn the best practices to think about the ML system design for our projects. We can learn from examples like Uber that developed [Michaelangelo](https://eng.uber.com/michelangelo-machine-learning-platform/)- an ML-as-a-service platform to enable building and deploying ML solutions. As additional resources, these two papers by [Google](https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) and by [Microsoft](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf) are worth mentioning. These papers discuss end-to-end ML system design, risks associated with it, and best practices to address them. ( If you decide to read/glance through these examples, take the suggestions with a grain of salt- use it as a checklist and don't aim to achieve every single item, instead focus on what is most relevant to your problem.)
 
