@@ -1,5 +1,5 @@
 ---
-title: "Crying In HMart"
+title: "Crying In H Mart"
 date: "2021-06-20T05:20:56Z"
 author: Michelle Zauner
 rating: ⭐⭐⭐⭐⭐
@@ -15,13 +15,11 @@ text-align: justify}
 
 Zauner's memoir chronicles her relationship with her mother, Chongmi, and her decline following a terminal diagnosis of pancreatic cancer. Zauner grew up Korean-American in a small town in Oregon, with very little diversity, where she longed to be American enough. As a teenager, she grew unwieldy and angsty. Her mother's constantly reprimands led Zauner to resentment and rebellion- resulting in a fractured relationship between the two women. 
 
-When Zauner is 25 and with enough time and space between the women things look hopeful for them until her mother's diagnosis of stage four cancer- snatching away any hope to mend their bond. As the two women come to terms with the reversal in roles and Michelle desperately seeks to make up for the pain she caused her mother as a teenager. 
-
-As she grapples with the loss of her mother, she struggles to get a grip of her father and her Korean heritage.  As she navigates her grief Zauner finds solace in writing music and Korean cuisine- which is sumptuously described in this memoir.  
+When Zauner is 25 and with enough time and space between the women things look hopeful for them until her mother's diagnosis of stage four cancer- snatching away any hope to mend their bond. As the two women come to terms with the reversal in roles and Michelle desperately seeks to make up for the pain she caused her mother as a teenager. As she grapples with the loss of her mother, she struggles to get a grip of her father and her Korean heritage.  And as she navigates her grief Zauner finds solace in writing music and Korean cuisine- which is sumptuously described in this memoir.  
 
 # 🎨 Impressions
 
-The narrative is poignant, thought-provoking and the writing is solid (for a first-time author). It made me emotional and laugh-out-loud, and I enjoyed reading it very much. Zauner is vulnerable in sharing a close look at her personal trauma, grief, and shame. 
+The narrative is poignant, thought-provoking, heart-wrenching. Her writing is solid (for a first-time author). It made me emotional and laugh-out-loud, and I enjoyed reading it very much. Zauner is vulnerable in sharing a close look at her personal trauma, grief, and shame. 
 
 It's a reflection on motherhood, daughterhood, and complexity that embodies any mother-daughter relationship. It is easy to relate to Michelle's story. As I read the book I reflected on my own relationship with my mom and dad- and how wildly different they are. How the relationship with my mother evolved over the years. How my mother's love for food and cooking is a part of me. 
 
