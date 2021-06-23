@@ -10,8 +10,11 @@ text-align: justify
 }
 </style>
 
+MLOps in academia is catching up with the industry and it is time to find out how ML looks different in research vs in production, and what it means to deploy your model and keep it alive in production.
+
 ![ml+devops](./ml+devops.png)
- > This article discusses how Data Science efforts must include deployment of models, challenges associated with it, and in particular reproducibility- what it means and how we can measure it. 
+
+ > This article discusses why Data Science efforts should include deployment of models, challenges associated with it, and in particular reproducibility- what it means and how we can measure it. 
 
 Let’s say that you just pushed a high-performing model to production. You’re done, right?
 
@@ -88,7 +91,7 @@ When it comes to traditional **Software Development in Production** a few common
 -   **Flexibility**: Ability to adapt to other newer components.
 -   **Scalability**: Measuring load, performance, throughputs, and latency percentiles.
 
-With deploying a ** ML model in Production** we face the above software development challenges and additional modeling specific challenges like:
+With deploying a **ML model in Production** we face the above software development challenges and additional modeling specific challenges like:
 
 -   **Reproducibility**: The ability to produce consistent results given the same data across systems. In other words, given the same input data, the model is production should be able to perform as well as the model in the research phase.
 
@@ -119,5 +122,5 @@ Once the entire ML pipeline is deployed then raw input data can be used to eithe
 (b) re-train the model. 
 
 Finally, Data Science efforts don't end with modeling.
-Deploying ML systems isn't just about getting ML systems to the end-users. Just like concerns with software systems in production, it's about building an infrastructure so the team can be quickly alerted when something goes wrong, figure out what went wrong, test in production, roll-out/rollback updates.
+Deploying ML systems isn't just about getting ML systems to the end-users. Just like concerns with software systems in production, it's about building an infrastructure so the team can be quickly alerted when something goes wrong, figure out what went wrong, test in production, roll-out/rollback updates. It is about 'Keeping the Model Alive'.
 
