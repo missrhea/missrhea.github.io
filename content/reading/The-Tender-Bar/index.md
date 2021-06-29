@@ -1,6 +1,6 @@
 ---
 title: "The Tender Bar"
-date: "2021-05-20T05:20:56Z"
+date: "2021-06-27T05:20:56Z"
 author: "J.R. Moehringer"
 rating: ⭐⭐⭐⭐⭐
 ---
