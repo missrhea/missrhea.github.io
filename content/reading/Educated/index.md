@@ -18,6 +18,10 @@ text-align: justify}
 # 🎨 Impressions
 
 Tara’s memoir has an air of other-worldliness. In a way, this book is like reading her diary because she kept an account of incidents in her journal. Yet Tara does not come across as the victim of her circumstances. Her story is candid, truthful, and brave.  
+
+> "To be truly educated is to understand our relationship to all things- to money, to property, to people, to nature-in the vast field of our existence" -J. Krishnamurti
+
+If this is true education then Tara's is truly educated because at the end of it she understands her relationship to all things.
  
 # 🕵 How I Discovered It
  

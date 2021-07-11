@@ -25,9 +25,9 @@ J.R. Moehringer's memoir is a timeless story about the ups and downs of boyhood 
 
 Like so many great stories this is one about overcoming adversity. But it stands out because Moehringer has a way with words. His writing is striking, it has the appropriate detail so that it never seems synthetic or unnecessarily florid- there is a fine line that Moehringer skillfully treads. (I have highlighted more words in this book than usual and each such word seems as though it were masterfully chosen and placed).
 
-The account seems as though it were taken from a young man's journal- deeply personal, surprisingly funny, and painfully heartbreaking. The unfiltered train of thought he shares is endearing and made me crack up. It is a close look at the thoughts and desires that guide a young man's behaviour and ambition. 
+The account seems as though it were taken from a young man's journal- deeply personal, surprisingly funny, and painfully heartbreaking. The unfiltered train of thought he shares is endearing and made me crack up. It is a close look at the thoughts and desires that guide a young man's behavior and ambition. 
 
- I have laughed out loud, sympathized with J.R.'s predicament, and I've spent summer days at the beach and evenings at the bar. Every character's personality shines through- even the pub that the book seems to revolve around- and you can not only picture the people and the bar but hear the voices and soundscapes. My favorite thing is the immersive experience Moehringer take the reader on.
+ I have laughed out loud, sympathized with J.R.'s predicament, and I've spent summer days at the beach and evenings at the bar. Every character's personality shines through- even the pub that the book seems to revolve around- and you can not only picture the people and the bar but hear the voices and soundscapes. My favorite thing is the immersive experience Moehringer takes the reader on.
 
 This excerpt shows what I mean about his way with words,
 
