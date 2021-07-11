@@ -1,8 +1,8 @@
 ---
-title: "Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character"
+title: "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character"
 date: "2021-07-02T05:20:56Z"
 author: " Richard P. Feynman"
-rating: ⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐⭐
 ---
 
 <style>
@@ -12,15 +12,14 @@ text-align: justify}
 
 # 🚀 Summary
 
-This is a collection of personal anecdotes by Feynman. He's lived a rather colorful life. He is brilliant, is well-traveled, experienced different cultures, experienced a war-time USA- all of which makes this a wonderful memoir.
-The man's a genius but that doesn't stop him from acknowledging his mistakes and his failures.
-He is a real showman. He develops this knack for drumming, Portuguese, breaking the code on locks, being a ladies' man (for lack of a better term), drawing, and odd talents like these that keep him the life of the party.
+This is a collection of personal anecdotes by Feynman. He's lived a rather colorful life. He is brilliant, is well-traveled, experienced different cultures, experienced a war-time USA- all of which alone would have made a wonderful memoir. The man's a genius but that doesn't stop him from acknowledging his mistakes and his failures. He is a real showman. He develops this knack for drumming, Portuguese, breaking the code on locks, being a ladies' man (for lack of a better term), drawing, and odd talents like these that keep him the life of the party.
 
 # 🎨 Impressions
 
 This was a delightful read! I listened to the audiobook which was very well produced and accentuated the sarcasm and annoyance in Feynman's narrative.
 Sure Feynman was a genius, he won the Nobel Prize after all. He was also charmingly boyish and downright mischievous. Themes that seem to be constant throughout his book. He might come across as self-aggrandizing and narcissistic if you take the book too seriously. I almost fell for that trap myself. Then the title reminded me that you can't take things too seriously.
-His spirit of curiosity and inquiry is truly inspiring. Not only does this translate into his approach to learning but more notably it translated into how he taught others to think. The inspiring gift of how to think is perhaps almost as significant as any of his contributions to physics.
+
+His spirit of curiosity and inquiry is truly inspiring. Not only does this translate into his approach to learning but more notably it translated into how he taught others to think. The inspiring gift of how to think is perhaps almost as significant as any of his contributions in physics.
 
 # 🕵 How I Discovered It
 
