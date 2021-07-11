@@ -28,7 +28,10 @@ It was on the bookshelves of most people I admire.
 
 # ✍️ My Favorite Quotes
 
-“You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.”
-“I didn't want to do the drumming if I was doing it because as Samuel Johnson said "If you see a dog walking on his hind legs, it's not so much that he does it well as that he does it at all".”
-“The first principle is that you must not fool yourself—and you are the easiest person to fool. So you have to be very careful about that.”
-“You see, I get so much fun out of thinking that I don’t want to destroy this pleasant machine that makes life such a big kick.”
+> “You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.”
+
+> “I didn't want to do the drumming if I was doing it because as Samuel Johnson said "If you see a dog walking on his hind legs, it's not so much that he does it well as that he does it at all".”
+
+> “The first principle is that you must not fool yourself—and you are the easiest person to fool. So you have to be very careful about that.”
+
+> “You see, I get so much fun out of thinking that I don’t want to destroy this pleasant machine that makes life such a big kick.”
