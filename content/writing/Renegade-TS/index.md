@@ -18,8 +18,8 @@ Like so many of Taylor’s songs, she draws you in with the clever music arrange
 >*You fire off missiles cause*
 >*You hate yourself*
 >*But do you know you're demolishing me?*
->*And if I would’ve known*
 
+>*And if I would’ve known*
 >*How sharp the pieces were*
 >*You’d crumbled into*
 >*I might’ve let them lay*
