@@ -2,7 +2,7 @@
 title: "The Boy, the Mole, the Fox and the Horse"
 date: "2021-07-18T05:20:56Z"
 author: "Charlie Mackesy"
-rating: ⭐⭐⭐⭐
+rating: ⭐⭐⭐
 ---
 
 <style>

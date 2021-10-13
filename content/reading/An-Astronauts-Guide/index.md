@@ -2,7 +2,7 @@
 title: An Astronaut's Guide To Life On Earth
 date: "2021-07-25T05:20:56Z"
 author: Chris Hadfield
-rating: ⭐⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐
 ---
 
 <style>
