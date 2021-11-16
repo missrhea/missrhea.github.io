@@ -5,8 +5,7 @@ description: "Renegade by Taylor Swift"
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 Like so many of Taylor’s songs, she draws you in with the clever music arrangement. Then that one-liner hits- the one that you didn’t see coming and didn’t know you needed to hear until now. That one lyric encapsulated an emotion you couldn’t articulate until now. Before you know it you’re playing it on repeat. Wondering how this woman put confusing indescribable emotions into words. Now you can reason with your emotions and also find some comfort knowing that you aren’t alone.

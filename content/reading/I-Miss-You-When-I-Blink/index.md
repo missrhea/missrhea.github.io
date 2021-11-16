@@ -6,8 +6,7 @@ rating: ⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I remember that I started reading the book, but I could not go through with it. Then I switched to the audiobook version which was not as much of a drag- thanks to 2X speed.

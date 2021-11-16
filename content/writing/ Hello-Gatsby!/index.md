@@ -5,9 +5,6 @@ description: "I talk about using Gatsby JS to build my website."
 featuredImage: ./dummy_img.jpg
 ---
 <style>
-body {
-text-align: justify
-}
 
 </style>
 

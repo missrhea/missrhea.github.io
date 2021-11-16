@@ -6,8 +6,7 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 # 🚀 Summary
@@ -23,7 +22,7 @@ One of those books I picked off the library shelf. Firstly because the cover was
 
 
 # ✍️ My Favorite Quotes
-> "Virginia, Ginevra, and Melania are the lens through which I observe the world. . . . My daughters remind me that being a father means living in that gray area between responsibility and carelessness, strength and softness."
+> "Virginia, Ginevra, and Melania are the lens through which I observe the world. My daughters remind me that being a father means living in that gray area between responsibility and carelessness, strength and softness."
 
 > "That the most important and difficult part of being a parent is perhaps being careful, always, not to burn our children's skin because of our fallible adult reasoning."
 

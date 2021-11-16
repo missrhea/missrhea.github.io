@@ -6,8 +6,7 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This book is plain sad. I remember trying to read it last year, but I couldn't go through with it at that time. This time around I completed it. 

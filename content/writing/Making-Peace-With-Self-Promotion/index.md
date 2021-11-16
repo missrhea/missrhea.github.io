@@ -6,8 +6,7 @@ featuredImage: ./dummy_img.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 # What IS NOT Self Promotion?

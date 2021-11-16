@@ -6,8 +6,7 @@ rating: ⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This book is a collection of short stories. I wish I enjoyed this book more than I did. I found most stories to be flat, with no overarching narrative to motivate me to flip to the next page. Perhaps I should have opted for the audiobook for a better experience.

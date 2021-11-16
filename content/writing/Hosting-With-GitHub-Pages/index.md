@@ -5,9 +5,6 @@ description: "Host your static site for free with GitHub Pages."
 featuredImage: ./dummy_img.jpg
 ---
 <style>
-body {
-text-align: justify
-}
 code{
     color:#E9BC3E
 }

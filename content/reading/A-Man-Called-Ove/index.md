@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This book is about an elderly man, Ove, who lives in Sweden. Fredrik Backman artfully puts Ove across as the curmudgeon old man in the neighborhood. At the start of the story, I was frustrated with Ove and quickly associate him with a curmudgeon we all know. But as soon as you decide this, the author cleverly brings to light all of the past life experiences and circumstances that have made Ove the man he is today. 

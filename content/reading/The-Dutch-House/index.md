@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I listened to the audiobook narrated by Tom Hanks and I think it made all the difference. The story is narrated from the boy Danny’s perspective whose boyish attitude is as petulant as it is endearing.

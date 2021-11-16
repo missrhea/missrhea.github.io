@@ -6,8 +6,7 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
-This isn't one of my favorite Hercule Poirot stories by Christie. 
+This isn't one of my favorite Hercule Poirot stories by Christie. Yet Agatha Christie's Hercule Poirot series are the comfort food equivalent of books when it comes to me. And the dose of escape, nostalgia and familiarity is exactly what I needed in this dumpster fire that is the covid-19 pandemic.

@@ -6,8 +6,7 @@ featuredImage: ./dummy.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I completed my first 10 km run a few weeks ago and it felt awesome! I felt so good, I decided to write this while I was running, and I began listing the things I wanted to share with you in my mind. I remember wishing I could record my thoughts for later. I sat down to write, and what I ended up writing did little justice to how I felt. Soon I was asking myself, I’m only an amateur writer/ runner who would want to read this? But here goes an overdue short story.

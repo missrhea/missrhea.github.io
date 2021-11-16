@@ -6,8 +6,6 @@ rating: ⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
 </style>
 
 A peculiar little story.

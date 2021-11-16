@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I enjoyed this book so much! Wonderful prose and a beautifully compelling story. It transported me to another time and place- I adore how the author describes the details of the British countryside mansion. The author conveys a beautiful message very subtlely through Stevens the Butler. It’s a book that touches on the themes of blind loyalty, a life spent striving for perfectionism, withholding emotions at the risk of seeming unprofessional. 

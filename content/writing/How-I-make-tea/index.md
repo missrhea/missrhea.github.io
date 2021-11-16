@@ -6,8 +6,7 @@ featuredImage: ./chai_hand.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 ![Chai](./chai_hand.jpg)
 

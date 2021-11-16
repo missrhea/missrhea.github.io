@@ -5,9 +5,6 @@ description: "10 commands to get started with Docker."
 ---
 
 <style>
-body {
-text-align: justify
-}
 h4{
     text-decoration:underline
 }

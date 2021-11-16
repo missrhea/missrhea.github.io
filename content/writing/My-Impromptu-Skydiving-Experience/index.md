@@ -6,9 +6,6 @@ featuredImage: ./dummy.jpg
 ---
 
 <style>
-body {
-text-align: justify
-}
 h4 {
     text-decoration: underline
 }

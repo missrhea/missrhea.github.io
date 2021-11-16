@@ -5,10 +5,6 @@ description: "A neat way to solve a messy commit history with git squash."
 featuredImage: ./squash_img.jpeg
 ---
 <style>
-body {
-text-align: justify
-}
-
 code{
     color:#E9BC3E
 }

@@ -6,8 +6,6 @@ featuredImage: ./dummy.png
 ---
 
 <style>
-body {
-text-align: justify}
 code{
     color:#E9BC3E
 }

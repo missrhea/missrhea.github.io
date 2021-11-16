@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 Lydia lives in the Mexican city of Acapulco with her son Luca and her husband who is a journalist. Lydia comes to know a man who is unbeknownst to her a drug lord who controls Acapulco. The subsequent revelations kick off Lydia and Luca's attempt to flee to America.

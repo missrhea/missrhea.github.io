@@ -6,8 +6,7 @@ featuredImage: ./dummy_img.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 Hi there! Welcome to my little corner of the internet!

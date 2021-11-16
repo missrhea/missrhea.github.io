@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This book is replete with complicated business decisions, negotiations, and the constant strive to grow and stay successful- that the author conveys in the form of his conversations with Steve Jobs, mentors, leaders, and investment bankers and sometimes with himself on a daily 90-minute drive to work. 

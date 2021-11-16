@@ -5,9 +5,7 @@ description: "Docker, containerization and how it improves software development.
 ---
 
 <style>
-markdown p {
-text-align: justify
-}
+
 </style>
 <markdown>
 

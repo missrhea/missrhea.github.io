@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 Noah's narrative is as entertaining and hilarious as it is poignant and illuminating. At times it seems as though Noah is the comedic guy in your friend circle and he's narrating this hilarious incident and it doesn't fail to crack you up. Throughout the book I could laugh, sympathize with him, relate to his predicament.

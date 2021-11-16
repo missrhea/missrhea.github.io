@@ -6,8 +6,7 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This is a very short story about the relationship between a young man who was born to a native Chinese mother and an American father. The mother's Chinese traditions begin to cause her young son embarrassment and as a result their relationship suffers. It is heart-breaking to watch this unfold. 

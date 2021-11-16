@@ -6,8 +6,7 @@ featuredImage: ./dummy.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 >Perhaps the explosion of the internet circa 2000 is indicative of the surge in the usage of the word ‘authentication’ during that same time as shown in the Google Trends graph.
 ![Perhaps the explosion of the internet circa 2000 is indicative of the surge in the usage of the word ‘authentication’ during that same time as shown in the Google Trends graph.](./graph.png)

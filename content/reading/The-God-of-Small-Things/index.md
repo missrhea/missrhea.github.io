@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 Like a review I read about this book says, Arundhati truly does conjure up her very own language for her story. It's filled with vivid and intricate detail and her writing paints portraits of the characters with all their beauty and mess. She uses clever metaphors that can transport you into the characters shoes.

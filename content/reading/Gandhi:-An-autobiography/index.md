@@ -6,6 +6,5 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>

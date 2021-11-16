@@ -5,9 +5,7 @@ description: "Machine Learning in Production"
 ---
 
 <style>
-body {
-text-align: justify
-}
+
 </style>
 
 MLOps in academia is catching up with the industry and it is time to find out how ML looks different in research vs in production, and what it means to deploy your model and keep it alive in production.

@@ -6,9 +6,7 @@ featuredImage: ./dummy.png
 ---
 
 <style>
-body {
-text-align: justify
-}
+
 </style>
 In a previous post, [Building Software Better With Docker](/Building-Software-Better-With-Docker/) I introduced Docker, defined containers, and how it can improve the software development process. I wrote that post to provide a mental model for the concept of containers and motivate their use. Here I want to talk about the technicalities of containers.
 

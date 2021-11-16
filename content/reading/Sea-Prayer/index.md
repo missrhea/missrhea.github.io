@@ -6,8 +6,7 @@ rating: ⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This is a story in verse form narrated by a father who is hoping his son will find refuge on the other side of the Mediterranean sea. The story is inspired by Alan Khurdi, the three-year-old boy who drowned on this journey.

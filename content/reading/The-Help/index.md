@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I read this book in summer 2014 in Goa at my friend Norysca's house. Most of it was read on the terrace beneath the shade of a huge mango tree. 

@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 In this classic Orwell paints the picture of a dystopian future that feels real and raw and sometimes inadvertent.

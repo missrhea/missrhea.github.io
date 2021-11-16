@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 This book was one of my first non YA books. It changed the kind of books I reached for since then. It is a lovely story, heart wrenching and heart warming at the same time. I have gone back to read it over the years it never loses it's charm. It is my favourite of Khaled Hosseini's books.

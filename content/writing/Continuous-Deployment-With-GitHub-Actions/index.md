@@ -6,9 +6,7 @@ featuredImage: ./dummy.jpg
 ---
 
 <style>
-body {
-text-align: justify}
-/* ![](./) */
+
 </style>
 
 In this [post](https://rhearodrigues.me/Hosting-With-GitHub-Pages/) I explained how I deployed my website using a simple deploy script. 

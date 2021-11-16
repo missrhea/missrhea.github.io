@@ -5,9 +5,7 @@ description: "What makes them different."
 ---
 
 <style>
-markdown p {
-text-align: justify
-}
+
 </style>
 
 Let's quickly look at how the Operating System (OS) is organized. At a high level, an OS can be thought of as having two layers sitting over the hardware layer. The OS Kernel sits over the hardware layer to enable communication with the hardware components like CPU or memory. The Application layer sits on top of this OS Kernel.

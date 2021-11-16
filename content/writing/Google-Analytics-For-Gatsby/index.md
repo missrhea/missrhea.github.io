@@ -6,8 +6,7 @@ featuredImage: ./dummy_img.jpg
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I've wanted to add analytics capabilities to this website for a while. And, Google Analytics sounded like the tool with the least resistance. I am aware of the [nasty consequences](https://plausible.io/blog/remove-google-analytics

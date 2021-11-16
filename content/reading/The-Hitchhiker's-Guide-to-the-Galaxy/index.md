@@ -6,8 +6,7 @@ rating: ⭐⭐⭐⭐
 ---
 
 <style>
-body {
-text-align: justify}
+
 </style>
 
 I got my Lasik surgery done so I was not going to be able to open my eyes for the next 48 hours. I kick started my audiobook marathon with this series.
