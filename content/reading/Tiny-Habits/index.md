@@ -11,7 +11,7 @@ rating: ⭐⭐⭐⭐
 
 
 # 🚀 Summary
-Tiny Habits is a book about the science of 'Behaviour Design' and how it can be used to create habits that stick. It proposes an alternative more compassionate approach to 'Practicing Change'. It includes case studies of people (albeit notably most of them are women) who adopted the Tiny Habits approach to create habits successfully.
+Tiny Habits is a book about the science of 'Behaviour Design' and how it can be used to create habits that stick. It proposes an alternative more compassionate approach to 'Practicing Change'. It includes case studies of people who adopted the Tiny Habits approach to create habits successfully.
 
 Fogg debunks several myths about habit formation pervasive in popular culture. For instance, we tend to over-emphasize the role of motivation and willpower in habit creation which leads to disappointment and a low chance of success. Fogg calls motivation and willpower 'fair-weather friends', suggesting our over-dependence on them is undoubtedly the wrong way to create habits.
 
