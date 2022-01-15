@@ -27,12 +27,9 @@ P.S. - Have you noticed that Goodreads has improved the search functionality? Ea
 Has been on my to-read shelf for a while. And then a friend I was visiting loaned it to me for the 15h flight to India.
  
 # ✍️ My Favorite Quotes
-> “I am looking for friends. What does that mean -- tame?"
-
+> “I am looking for friends. What does that mean -- tame?" 
 "It is an act too often neglected," said the fox. "It means to establish ties."
-
 "To establish ties?"
-
 "Just that," said the fox. "To me, you are still nothing more than a little boy who is just like a hundred thousand other little boys. And I have no need of you. And you, on your part, have no need of me. To you I am nothing more than a fox like a hundred thousand other foxes. But if you tame me, then we shall need each other. To me, you will be unique in all the world. To you, I shall be unique in all the world....”
 
 > "It is the time you have wasted for your rose that makes your rose so important."

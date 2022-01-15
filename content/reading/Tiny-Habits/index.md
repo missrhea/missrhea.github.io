@@ -18,7 +18,7 @@ Fogg debunks several myths about habit formation pervasive in popular culture. F
 Fogg makes convincing arguments in favour of starting small (or tiny) and wiring in the good habits by feeling good (what he calls 'Shine' in the book) as opposed to feeling guilty. It is a practical book, with dozens of inspiring tiny actions to help you start immediately. Definitely recommend reading this book!
 
 # 🎨 Impressions
-I found Fogg's compassionate approach was unique and an aspect that was previously missing amid the countless habit/ productivity literature. It is very easy to feel bad, to let our inner critic tell us we are not good enough. And if you find yourself frequently reminded of all the reasons why you can't then Tiny Habits might have two cents to offer. 
+I found Fogg's compassionate approach to be unique and previously missing amid the countless habit/ productivity literature. It is very easy to feel bad, to let our inner critic tell us we are not good enough. And if you find yourself frequently reminded of all the reasons why you can't then Tiny Habits might have two cents to offer. 
 
 My two big takeaways were starting tiny and celebration. 
 Here are two excerpts on starting tiny.
@@ -29,7 +29,7 @@ Here are two excerpts on starting tiny.
 Here is an excerpt on celebration.
 > "When you celebrate effectively, you tap into the reward circuitry of your brain. By feeling good at the right moment, you cause your brain to recognize and encode the sequence of behaviors you just performed. In other words, you can hack your brain to create a habit by celebrating and self-reinforcing."
 
-When it comes to reading (more) I believe that you should read what you want to, out of curiosity or interest. As opposed to something you should read. In the same spirit, Fogg proposes the first of two maxims- both of which I find useful to bear in mind. 
+When it comes to reading (more) I believe that you should read what you want to, out of curiosity or interest. As opposed to something you 'should' read. In the same spirit, Fogg proposes the first of two maxims- both of which I find useful to bear in mind. 
 #1 Help people do what they already want to do. 
 #2 Help people feel successful 
 
