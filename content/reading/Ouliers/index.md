@@ -1,6 +1,6 @@
 ---
 title: "Outliers: The Story of Success"
-date: "2022-01-22T05:20:56Z"
+date: "2021-09-16T05:20:56Z"
 author: Malcolm Gladwell
 rating: ⭐⭐⭐⭐
 ---

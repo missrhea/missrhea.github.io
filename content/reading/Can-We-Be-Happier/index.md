@@ -1,6 +1,6 @@
 ---
 title: "Can We Be Happier: Evidence and Ethics"
-date: "2020-06-03T05:20:56Z"
+date: "2021-11-20T05:20:56Z"
 author: Richard Layard  
 rating: ⭐⭐⭐
 ---
