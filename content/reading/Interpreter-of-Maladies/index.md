@@ -1,6 +1,6 @@
 ---
 title: Interpreter of Maladies
-date: "2021-12-29T06:20:56Z"
+date: "2022-02-09T06:20:56Z"
 author: Jhumpa Lahiri
 rating: ⭐⭐⭐⭐
 
