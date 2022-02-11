@@ -1,0 +1,27 @@
+---
+title: "Tiny Beautiful Things: Advice on Love and Life from Dear Sugar"
+date: "2021-10-11T06:20:56Z"
+author: Cheryl Strayed
+rating: ⭐⭐⭐⭐
+---
+
+<style>
+
+</style>
+
+<a href="https://www.goodreads.com/book/show/13152194-tiny-beautiful-things?ac=1&from_search=true&qid=QhDs1Wg55b&rank=1">Tiny Beautiful Things</a> is part memoir and part self-help. It is a compilation of selected essays from the <a href="https://therumpus.net/sections/dear-sugar/">Dear Sugar</a> advice column written by an (initially) anonymous person who called themselves Sugar (we know now Sugar is Cheryl Strayed). 
+
+Sugar's answers are a combination of tough love and compassion. She'll tell you how it is, and she won't make it sound pleasant. A recurring theme in her answers is the 'most other people have it worse, so get up off your sorry ass'- which is sometimes exactly what one needs to hear. That isn't to discount Sugar's immense capacity for compassion and empathy. The questions from readers are articulate and eloquent- in fact, I was pleasantly surprised. Sugar's answers are beautifully written, endearing, and incredibly moving. Even though the average reader won't grapple with most of the questions I think there is a lesson to learn and something universal to relate to for everyone. I hope you'll find it.  
+
+I like to believe that there is such a thing as good timing with books, just as in our relationships. I picked up the book in 2019, and again in 2020 but I didn't get very far either of those times. Finally, in 2021 I began listening to the audiobook on walks, it was late September/ early October so walking outdoors among the autumn colors and cool air was wonderful. This was the good timing I had to wait for. It's a book I'll revisit once in a while when I need some understanding and acceptance.
+
+Some highlights.
+
+> "I teach memoir writing occasionally. I always ask my students to answer two questions about the work they and their peers have written: What happened in this story? and What is this story about? It’s a useful way to see what’s there. A lot of times, it isn’t much. Or rather, it’s a bunch of what happened that ends up being about nothing at all. You get no points for the living, I tell my students. It isn’t enough to have had an interesting or hilarious or tragic life. Art isn’t anecdote. It’s the consciousness we bring to bear on our lives. For what happened in the story to transcend the limits of the personal, it must be driven by the engine of what the story means."
+
+> "The unifying theme is resilience and faith. The unifying theme is being a warrior and a motherfucker. It is not fragility. It’s strength. It’s nerve. And “if your Nerve, deny you—,” as Emily Dickinson wrote, “go above your Nerve.” Writing is hard for every last one of us—straight white men included. Coal mining is harder. Do you think miners stand around all day talking about how hard it is to mine for coal? They do not. They simply dig."
+
+> "Nobody will protect you from your suffering. You can’t cry it away or eat it away or starve it away or walk it away or punch it away or even therapy it away. It’s just there, and you have to survive it. You have to endure it. You have to live through it and love it and move on and be better for it and run as far as you can in the direction of your best and happiest dreams across the bridge that was built by your own desire to heal."
+
+> "The Internet can be many things, of course. Too often it’s a cesspool of distraction, a place where we indulge in the modern sport of snark and schadenfreude, building the case for our own bigotries, where we mock and thereby dismiss the suffering of others."
+

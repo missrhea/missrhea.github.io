@@ -1,6 +1,6 @@
 ---
 title: In Other Words
-date: "2021-12-29T06:20:56Z"
+date: "2021-11-29T06:20:56Z"
 author: Jhumpa Lahiri
 rating: ⭐⭐⭐⭐
 ---
