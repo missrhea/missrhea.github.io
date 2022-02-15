@@ -1,16 +1,16 @@
 ---
-title: Gently Falls The Bakula
-date: "2021-11-24T06:20:56Z"
-author: Sudha Murty
-rating: ⭐⭐⭐
+title: No One Is Talking About This
+date: "2022-02-13T06:20:56Z"
+author: Patricia Lockwood
+rating: ⭐⭐
 ---
 
 <style>
 
 </style>
 
-<a href="https://www.goodreads.com/book/show/13152194-tiny-beautiful-things?ac=1&from_search=true&qid=QhDs1Wg55b&rank=1">Gently Falls The Bakula</a> is a criticism of modern values and work-ethic, patriarchy, and discrimination conveyed through an unassuming but moving plot. Murty writes without fuss and despite the simplicity, it is poignant.  
+From reviews on the internet it is clear that this is a polarizing book. Yet when I picked up No One Is Talking About This I wanted to like this book. The title, the author, the nomination on the Booker Prize shortlist were all promising cues. Regrettably, this book broke me. For me it was challenging to read. Whether that's because of my dwindling attention span- thanks social media- or simply the writing format or both, I can't say.
 
-A friend recommended this book. I read it on a 15-hour long flight swapping it every now and then for <a href="https://www.goodreads.com/user/show/92922919-rhea#">The Little Prince</a>, meals, and naps. I couldn't wait to land so I could look up a picture of the Bakula flower and confirm whether or not I had seen it before- I hadn't. Gently Falls The Bakula is more than a cozy story, it reminded me of an important lesson- to choose for ourselves what brings meaning to our life and pursue that whole-heartedly. This quote sums it up.
+<a href="https://www.goodreads.com/author/show/5220577.Patricia_Lockwood">Lockwood</a> is quirky, witty, and clever. However, I only witness Lockwood's brilliance every couple of blurbs. There are too many extreme American and extreme popular culture references that I have little to no context for- thanks to me for abandoning social media in 2020. Some of the recurring issues (that I caught on) that she examines include Trump (who is only alluded to as 'The Dictator'), the misery of being anything except male, our frivolous attitude towards climate change. But by far the theme that dominates this landscape of blurbs is a critique of society's slavish tecnological etiquete.
 
-"'Shrimati, what are you thinking of?' 'My loneliness. Sometimes it is very depressing.' 'Shrimati, may I give you some advice? Hope you will not mind. One should have the basic happiness within oneself. That happiness comes from the kind of work one does whole-heartedly.'"
+Part one of the book starts off from the point of view of an unnamed narrator. It seemed as if a confused stream of consciousness and loosely held together non-sequiturs were being flung at me successively. Part two has some semblance of a plot- the narrator's neice born with complications. I understand that Lockwood's intention is to juxtapose that poignancy of real life and insouciance of social media. Sad to say that this was not my cup of tea.
