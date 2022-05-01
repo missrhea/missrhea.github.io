@@ -23,7 +23,7 @@ const WritingList = () => {
                 slug
               }
               frontmatter {
-                date(formatString: "Do MMM YYYY")
+                date(formatString: "DD/MM/YYYY")
                 title
                 description
               }
@@ -46,7 +46,7 @@ const WritingList = () => {
                 </a>
                 <time>{node.frontmatter.date}</time>
                 <p>
-                    {node.frontmatter.description}
+                    {/* {node.frontmatter.description} */}
                     <p className={styles.timeToRead}> {node.timeToRead} min read </p>
                 </p>
             </div>
