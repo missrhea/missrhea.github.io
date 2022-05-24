@@ -67,7 +67,7 @@ After all, we are also part of Nature, and we are made in such a way that we can
 
 That means it is okay to use wood as long as trees are allowed to live in a way that is appropriate to their species. And that means that they should be allowed to fulfill their social needs, to grow in a true forest environment on undisturbed ground, and to pass their knowledge on to the next generation. And at least some of them should be allowed to grow old with dignity and finally die a natural death.
 
-> Sidenote: If you've made it to this point, ***THANK YOU!*** This
+> P.S. If you've made it to this point, ***THANK YOU!*** This
 > review took me a lot of time and effort to write. It's embarrassing but
 > it has taken me half a Friday, half a Saturday, and finally a Sunday. I'm
 > telling you this so you know it's not something that comes easily to me. While writing this is primarily for myself, if reading this made you feel remotely anything from curiosity, disagreement, or a sense of wonder I would adore you if you told me. (My contact info is on the homepage). Happy reading!  
