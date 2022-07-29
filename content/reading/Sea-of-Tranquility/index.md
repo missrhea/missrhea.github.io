@@ -9,7 +9,7 @@ rating: ⭐⭐⭐⭐⭐
 
 </style>
 
-I've been wanting to read any book by Mandel forever. And I picked up her lastest, <a href="https://www.goodreads.com/book/show/58446227-sea-of-tranquility?ac=1&from_search=true&qid=9mU5sxB6rS&rank=3">Sea of Tranquility</a> with the most gorgeous cover art. Let me tell you that I haven't read a book as compulsively or as quickly as I did with this in a very long time. I love that the one scene holding this story together takes place in Vancouver Island because having been there several times I can fully appreciate the mysterious and frightening mood Mandel is conjuring.
+I've been wanting to read Mandel forever. And I picked up her lastest, <a href="https://www.goodreads.com/book/show/58446227-sea-of-tranquility?ac=1&from_search=true&qid=9mU5sxB6rS&rank=3">Sea of Tranquility</a> with the most gorgeous cover art. Let me tell you that I haven't read a book as compulsively or as quickly as I did with this in a very long time. I love that the one scene holding this story together takes place in Vancouver Island because having been there several times I can fully appreciate the eerie mood Mandel conjures.
 
 Mandel seems to thrive in the space where surrealism and the ordinary meet. To that extent Sea of Tranquility is science fiction that weaves time-travel and outer-space colonies with plage and war. For a novel that is set across time and space Mandel's writing is sharp from beginning to end- she rarely falters in holding the reader's attention. She takes you on this epic saga in a mere 255 pages- that is an incredible feat.
 
