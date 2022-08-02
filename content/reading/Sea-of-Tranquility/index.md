@@ -2,7 +2,7 @@
 title: "Sea of Tranquility"
 date: "2022-07-09T05:34:21Z"
 author: "Emily St. John Mandel"
-rating: ⭐⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐
 ---
 
 <style>
