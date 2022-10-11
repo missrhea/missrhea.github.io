@@ -88,7 +88,7 @@ Previously, I was on the Data and Analytics team at RBC where I developed Machin
 <br></br>
 I value collaboration as much as I value ownership and working independently. I'm always curious and that fuels my love for learning. I want to work on meaningful problems, especially challenging ones that help me grow. I'm an optimist. A better product, a better team, a better life, or a better world is always inspiring to me.
 <br></br>
-Listening to podcasts on a walk, reading (check out my reviews), hiking, and teaching are some things I enjoy doing in my free time. Feel free to reach out to me via email or hit me up on Twitter/LinkedIn.
+Listening to podcasts on a walk, reading, hiking, and teaching are some things I enjoy doing in my free time. Feel free to reach out to me via email or hit me up on Twitter/LinkedIn.
       </p>
     </div>
   )
