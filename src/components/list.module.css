@@ -3,7 +3,8 @@
     grid-column-gap: 10px;
     grid-row-gap: 0px;
     grid-template-columns: 1fr min-content;
-    grid-template-rows: 0.25fr min-content;
+    /* grid-template-rows: 0.25fr min-content; */
+    margin-bottom: 15px;
 }
 
 @media screen and (max-width: 640px){
@@ -26,23 +27,23 @@
         }
     }
 
-.writinglist p {
+/* .writinglist p {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
     margin-bottom: 0em;
-}
+} */
 
 .writinglist time {
     white-space: pre;
 }
 
-.writinglist .timeToRead{
+/* .writinglist .timeToRead{
     font-size: small;
     color: grey;
     font-style: italic;
     margin-bottom: 15px;
-}
+} */
 
 .readinglist{
     display: grid;

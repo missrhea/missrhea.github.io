@@ -45,10 +45,10 @@ const WritingList = () => {
                     </Link>
                 </a>
                 <time>{node.frontmatter.date}</time>
-                <p>
+                {/* <p> */}
                     {/* {node.frontmatter.description} */}
-                    <p className={styles.timeToRead}> {node.timeToRead} min read </p>
-                </p>
+                    {/* <p className={styles.timeToRead}> {node.timeToRead} min read </p> */}
+                {/* </p> */}
             </div>
           )
         })
