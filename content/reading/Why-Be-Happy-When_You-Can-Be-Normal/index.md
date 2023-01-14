@@ -5,6 +5,8 @@ author: "Jeanette Winterson"
 rating: ⭐⭐⭐⭐
 ---
 
+
+
 When I read <a href="https://www.goodreads.com/book/show/15055.Oranges_Are_Not_the_Only_Fruit">Oranges</a> by <a href="https://www.goodreads.com/author/show/9399.Jeanette_Winterson">Winterson</a> a year ago, I also added <a href="https://www.goodreads.com/book/show/11395597-why-be-happy-when-you-could-be-normal">Why Be Happy When You Could Be Normal</a> to my library. And I felt it was time for another of Winterson's books.
 
 If <a href="https://www.goodreads.com/book/show/15055.Oranges_Are_Not_the_Only_Fruit">Oranges</a> was Winterson's thinly veiled memoir, then <a href="https://www.goodreads.com/book/show/11395597-why-be-happy-when-you-could-be-normal">Why Be Happy When You Could Be Normal</a> is where she goes all the way to reclaim that painful fictional past in Oranges. In each of these books I love how she combines fiction and memoir. I don't recall reading another book that blurs that line as impressively. Another impressive thing about these books is that they don't follow a linear timeline, she jumps back and forth without warning but that doesn't bother me because she does that really well. At its core, <a href="https://www.goodreads.com/book/show/11395597-why-be-happy-when-you-could-be-normal">this book</a> is an exploration of belonging and happiness.
@@ -28,3 +30,4 @@ Here are some of the quotes I highlighted.
     The pursuit of happiness is more elusive; it is lifelong, and it is not goal-centred.
 
     What you are pursuing is meaning- a meaningful life. There's the hap- the fate, the draw that is yours, and it isn't fixed, but changing the course of the stream, or dealing new cards, whatever metaphor you want to use- that's going to take a lot of energy. There are times when it will go so wrong that you will barely be alive, and times when you realize that being barely alive, on your own terms, is better than living a bloated half-life on someone else's terms."
+

@@ -8,6 +8,7 @@
     "url": "https://github.com/missrhea/missrhea.github.io/issues"
   },
   "dependencies": {
+    "d3": "^7.8.1",
     "gatsby": "^2.22.15",
     "gatsby-image": "^2.4.5",
     "gatsby-plugin-catch-links": "^2.10.0",
