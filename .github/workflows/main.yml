@@ -25,5 +25,4 @@ jobs:
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.WEBSITE }}
-          repo-token: ${{ secrets.WEBSITE }}
           deploy-branch: gh-pages

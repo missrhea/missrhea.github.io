@@ -13,14 +13,14 @@ someday I shall love to revisit Anne and the Cuthberts there. I hope I can visit
 
 Here are some of my highlights. I am highly amused when Anne is being melodramatic which is more often than not.
 
-> *  "I can't. I'm in the depths of despair. Can you eat when you are in the depths of despair?"
+*  "I can't. I'm in the depths of despair. Can you eat when you are in the depths of despair?"
 
-> * "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will."
+* "It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will."
 
-> * "I'm so glad I live in a world where there are Octobers."
+* "I'm so glad I live in a world where there are Octobers."
 
-> * "My life is a perfect graveyard of buried hopes."
+* "My life is a perfect graveyard of buried hopes."
 
-> * "Why must people kneel down to pray? If I really wanted to pray I’ll tell you what I'd do. I'd go out into a great big field all alone or in the deep, deep woods and I'd look up into the sky—up—up—up—into that lovely blue sky that looks as if there was no end to its blueness. And then I'd just feel a prayer."
+* "Why must people kneel down to pray? If I really wanted to pray I’ll tell you what I'd do. I'd go out into a great big field all alone or in the deep, deep woods and I'd look up into the sky—up—up—up—into that lovely blue sky that looks as if there was no end to its blueness. And then I'd just feel a prayer."
 
-> * "Anne always remembered the silvery, peaceful beauty and fragrant calm of that night. It was the last night before sorrow touched her life; and no life is ever quite the same again when once that cold, sanctifying touch has been laid upon it."
+* "Anne always remembered the silvery, peaceful beauty and fragrant calm of that night. It was the last night before sorrow touched her life; and no life is ever quite the same again when once that cold, sanctifying touch has been laid upon it."
