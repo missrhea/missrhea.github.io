@@ -57,7 +57,7 @@
     "url": "git+https://github.com/missrhea/missrhea.github.io.git"
   },
   "scripts": {
-    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
