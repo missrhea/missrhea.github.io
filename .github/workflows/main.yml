@@ -24,5 +24,5 @@ jobs:
       - uses: actions/checkout@v1
       - uses: meese-enterprises/gatsby-publish-without-jekyll@v2
         with:
-          access-token: ${{ secrets.WEBSITE }}
+          access-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-branch: gh-pages
