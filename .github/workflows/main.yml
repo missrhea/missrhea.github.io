@@ -21,8 +21,8 @@ jobs:
     # Configure the access token to allow pushing the build to the repository
     # Configure the branch that GitHub accepts as source of the static files. 
     steps:
-      - uses: actions/checkout@v1
-      - uses: enriikke/gatsby-gh-pages-action@v2
+      - uses: actions/checkout@v2
+      - uses: Cecilapp/GitHub-Pages-deploy@v3
         with:
           access-token: ${{ secrets.WEBSITE }}
           deploy-branch: gh-pages
