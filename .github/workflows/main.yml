@@ -22,9 +22,9 @@ jobs:
     # Configure the branch that GitHub accepts as source of the static files. 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v2.5.1
         with:
-          node-version: '18'
+          node-version: '18.x'
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           access-token: ${{ secrets.GITHUB_TOKEN }}
