@@ -1,0 +1,11 @@
+---
+title: "Are You There God? It's Me, Margaret"
+date: "2023-08-19T05:20:56Z"
+author: "Judy Blume"
+rating: ⭐⭐⭐
+---
+I watched the absolutely hilarious trailer for the upcoming <a href="https://youtu.be/LzRzojHC3iE?feature=shared">film adaptation</a> of <a href="https://www.goodreads.com/book/show/37732.Are_You_There_God_It_s_Me_Margaret">Are You There God? It's Me, Margaret</a> a couple of months ago at the theatre. My friend, who was with me, suggested that I read the book. So, I got it on my Kindle. When I finally started reading it, I breezed through it because at 150 pages it was much shorter than I anticipated. This turned out to be a relief, as there's only so much adolescent angst I can tolerate. The entire book seemed to be composed of alternating waves of wholesome moments and cringe-worthy scenes involving a clique of adolescent girls. And I'm confident a ten-year-old me would have appreciated the story a lot more.
+
+In this coming-of-age story, the eleven-year-old protagonist Margaret finds herself frustrated by religion, her lack of physical development, impatience about not getting her first period, and having to leave her home in New York City. Her frustration with her lack of a religious identity leads her to experiment with various religious experiences. Interestingly, in each of these experiments, she doesn't "feel" God. However, Margaret maintains an intimate and ongoing conversation with God- whom she confides her religious uncertainties and her pre-teen embarrassments to. It's a heartwarming concept, illustrating that the notion of God can be supportive and positive if one desires it to be.
+
+Within the narrative, there's the anticipated dose of family drama and a betrayal by her so-called best friend. Margaret's interactions with her overdramatic, stereotypical Jewish grandmother are engaging enough to keep readers engaged until the conclusion. The book is short and sweet, and beneath its surface, <a href="https://www.goodreads.com/author/show/12942.Judy_Blume">Blume</a> gently explores the themes of belongingness, identity, religion, friendships, puberty, and sexuality.

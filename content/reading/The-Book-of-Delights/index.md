@@ -15,7 +15,7 @@ I think there is a lot of value in the two key takeaways from this book: the pro
 
 I stumbled upon this book thanks to the [This American Life](https://www.thisamericanlife.org/) podcast. Specifically, the episode titled [The Show of Delights](https://www.thisamericanlife.org/692/the-show-of-delights) captivated me with its Act One, titled 'The Job of Delight'. This segment featured an interview with poet Ross Gay, the author of 'The Book of Delights.' The elegant simplicity of the book's concept caught my attention, prompting me to place a hold for it at the library. While I appreciate the book's underlying concept, I must admit that my enthusiasm for the collection of essayettes itself was not as pronounced. I do feel odd about giving another person's delights a low rating. But anyhow, that is precisely the nature of my reviewing project. Perhaps I should have held my horses before getting the book. Perhaps I should have trusted NPR's Ira Glass (the source of one of my life's consistent delights) to have given me what this book had to offer. If anything Ross Gay's collection of delights is inspiring, and I am eager to continue adding to my very own collection of delights.
 
-One of my highlighted quotations from the book.
+One of my favorite highlighted quotations from the book.
 <i>
 * "The more stuff you love the happier you will be."
 </i>
