@@ -9,3 +9,11 @@ I watched the absolutely hilarious trailer for the upcoming <a href="https://you
 In this coming-of-age story, the eleven-year-old protagonist Margaret finds herself frustrated by religion, her lack of physical development, impatience about not getting her first period, and having to leave her home in New York City. Her frustration with her lack of a religious identity leads her to experiment with various religious experiences. Interestingly, in each of these experiments, she doesn't "feel" God. However, Margaret maintains an intimate and ongoing conversation with God- whom she confides her religious uncertainties and her pre-teen embarrassments to. It's a heartwarming concept, illustrating that the notion of God can be supportive and positive if one desires it to be.
 
 Within the narrative, there's the anticipated dose of family drama and a betrayal by her so-called best friend. Margaret's interactions with her overdramatic, stereotypical Jewish grandmother are engaging enough to keep readers engaged until the conclusion. The book is short and sweet, and beneath its surface, <a href="https://www.goodreads.com/author/show/12942.Judy_Blume">Blume</a> gently explores the themes of belongingness, identity, religion, friendships, puberty, and sexuality.
+
+
+Some of my highlighted quotations from the book.
+<i>
+* "It's not so much that I like him as a person God, but as a boy he's very handsome."
+
+* "Are you there God? It’s me, Margaret. I’ve been to church. I didn’t feel anything special in there God. Even though I wanted to. I’m sure it has nothing to do with you."
+</i>
