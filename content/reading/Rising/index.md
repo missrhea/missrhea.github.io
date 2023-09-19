@@ -1,11 +1,11 @@
 ---
 title: 'Rising: Becoming the First North American Woman on Everest'
-date: "2023-09-19T05:34:21Z"
+date: "2023-09-17T05:34:21Z"
 author: 'Sharon Wood'
 rating: ⭐⭐⭐⭐
 ---
 
-I’ve said this before, and I’ll say it once again: I’m a sucker for memoirs. And when the memoir in question involves being outdoors—think Murakami’s "What I Talk About When I Talk about Running" or Knight’s "Shoedog"—you best believe this intersectional genre is in my top three. So naturally, when <a href="http://sharonwood.net">Wood's</a> memoir is about climbing Everest, I'm sold.
+I’ve said this before, and I’ll say it once again: I’m a sucker for memoirs. And when the memoir in question involves being outdoors—think <a href="https://www.goodreads.com/author/show/3354.Haruki_Murakami">Murakami’s</a> <a href="https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running?">What I Talk About When I Talk about Running</a> or <a href="https://www.goodreads.com/author/show/3319233.Phil_Knight">Knight’s</a> <a href="https://www.goodreads.com/book/show/27220736-shoe-dog">Shoe Dog</a>—you best believe this intersectional genre is in my top three. So naturally, when <a href="http://sharonwood.net">Wood's</a> memoir is about climbing Everest, I'm sold.
 
 In <a href="https://www.goodreads.com/book/show/44196204-rising">Rising</a>, <a href="http://sharonwood.net">Wood</a> eases you into her journey to Everest, in a sense acclimatizing you to the context and situation she finds herself in. In her no-holds-barred style, she recounts how her dream to climb Everest was set in motion and the events building up to the summit bid at Everest. Throughout the book, <a href="http://sharonwood.net">Wood's</a> vulnerability is striking. She lets you in on her insecurities, her heartbreak, her fears as the only female climber on the team. I get the sense that she intentionally choose not to smooth over the coarse edges of her story; she tells it as it was for her. She mentions that she worked to share her story as accurately as possible, to have it reflect the truth while knowing that it won’t necessarily reflect her teammate's reality. I think that was brave of her to do.
 
