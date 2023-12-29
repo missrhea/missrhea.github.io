@@ -1,6 +1,6 @@
 ---
 title: "Yellowface"
-date: "2023-12-15T05:20:56Z"
+date: 2023-12-15
 author: "R.F. Kuang"
 rating: ⭐⭐⭐⭐
 ---

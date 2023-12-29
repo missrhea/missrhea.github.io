@@ -1,6 +1,6 @@
 ---
 title: "In the Kitchen: Essays on Food and Life"
-date: "2023-11-24T05:20:56Z"
+date: 2023-11-24
 author: "Juliet Annan"
 rating: ⭐⭐⭐⭐
 ---

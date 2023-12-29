@@ -1,6 +1,6 @@
 ---
 title: "How to Stay Sane in an Age of Division"
-date: "2023-11-3T05:20:56Z"
+date: 2023-11-03
 author: "Elif Shafak"
 rating: ⭐⭐
 ---

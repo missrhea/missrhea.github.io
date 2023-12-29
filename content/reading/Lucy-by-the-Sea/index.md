@@ -1,6 +1,6 @@
 ---
 title: "Lucy by the Sea"
-date: "2023-10-10T05:20:56Z"
+date: 2023-10-10
 author: "Elizabeth Strout"
 rating: ⭐⭐⭐
 ---
