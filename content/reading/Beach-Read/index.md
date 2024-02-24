@@ -2,7 +2,7 @@
 title: "Beach Read"
 date: "2024-02-14T05:20:56Z"
 author: "Emily Henry"
-rating: ⭐⭐⭐⭐
+rating: ⭐⭐⭐
 ---
 
 <a href="https://www.goodreads.com/book/show/52867387-beach-read">Beach Read</a> explores the friends to enemies trope, and <a href="https://www.goodreads.com/author/show/13905555.Emily_Henry">Henry's</a> execution includes generous doses of sometimes snarky, sometimes flirty, funny, good-natured banter. There were a handful of times I giggled as I was reading. Augutus Everett is an authour of literary fiction books, and January Andrews is an authour of happily ever after romantic books. They're spending the summer on lake Michigan as neighbours and because they're both in a creative rut they strike a deal to publish a book and not fall in love. It's an endearing premise, and one that delivered for me. 
