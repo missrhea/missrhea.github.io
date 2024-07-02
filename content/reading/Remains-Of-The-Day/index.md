@@ -1,5 +1,5 @@
 ---
-title: Remains Of The Day
+title: The Remains Of The Day
 date: "2020-09-25T05:34:21Z"
 author: Kazuo Ishiguro
 rating: ⭐⭐⭐⭐⭐
