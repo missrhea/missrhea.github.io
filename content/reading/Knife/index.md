@@ -1,0 +1,29 @@
+---
+title: "Knife: Meditations After an Attempted Murder"
+date: "2024-08-14T16:08:00Z"
+author: "Salman Rushdie"
+rating: ⭐⭐⭐⭐
+---
+
+As we enter the final weeks of summer it occurred to me that I hadn't picked up a memoir since early spring. A quick search led me to <a href="https://www.goodreads.com/author/show/3299.Salman_Rushdie">Rushdie's</a> <a href="https://www.goodreads.com/book/show/199344846-knife">Knife</a> - his account of surviving a violent knife attack that almost killed him. It's a relatively short account and I opted for the audiobook since it is narrated by the author. As is expected, the incident is awful and disturbing to read about. Yet <a href="https://www.goodreads.com/author/show/3299.Salman_Rushdie">Rushdie's</a> tone is calm and his recounting is matter-of-fact. I did not expect that he would also be funny, at least not here. He seldom deploys humour but with excellent comedic timing, so that when I least expect it I am already in the middle of a little chuckle.
+
+This knife attack took place on on August 12, 2022 - almost exactly two years from when I'm reading this book. I can't help but imagine that as I was going through the audiobook, somewhere the 77-year-old <a href="https://www.goodreads.com/author/show/3299.Salman_Rushdie">Rushdie</a> might have also been reliving that brutality. I didn't know much about the author, except his long history of being targeted since The Satanic Verses. While this memoir is one man's attempt at processing the trauma he's endured, <a href="https://www.goodreads.com/book/show/199344846-knife">Knife</a> is at its core a meditation on life, loss, love, and art. 
+
+The author starts off recounting the hours leading up to the knife attack, followed by the 27-second-long encounter with his assailant who managed to stab him 15 times. What follows in the wake of this are months of surgery, medication, physical and emotional rehab. The descriptions of his torn up, wounded, disfigured body at each point of contact with the knife are quite visual and difficult to read - which is exactly what you'd expect. At times I found myself wincing. Yet, <a href="https://www.goodreads.com/author/show/3299.Salman_Rushdie">Rushdie</a> remains calm, clinical and factual. 
+
+In the second half of the book, <a href="https://www.goodreads.com/author/show/3299.Salman_Rushdie">Rushdie</a> has basically imagined a conversation with his assailant - since he can't actually confront him. Throughout the book, he refers to his assailant as The A. Here he shows us the power fiction provides to "get into someone's head" in an attempt to understand another person who disagrees with you or in this case a person who wants you dead. For me this was the most engaging and compelling part. Altogether, <a href="https://www.goodreads.com/book/show/199344846-knife">Knife</a> is a deeply moving and fascinating memoir - because seldom does someone on the cusp of death actually end up living long enough to write about it. 
+
+
+Here are some of my highlights.
+
+<i>
+
+* "And beyond the pandemic, a world in crisis. America torn in two by the radical right, the U.K. in dreadful disarray, India sinking fast into authoritarianism, freedom everywhere under attack from the bien-pensant left as well as book-banning conservatives, the planet itself in dire straits, refugees, hunger, thirst, and war in Ukraine. To say, at such a historical moment, "I am happy"-wasn't that a luxury? A form of chosen blindness, willful, selfish? Wasn't it exactly what "Henry White," the character in my unfinished story, was guilty of-happiness as a privilege, as unexamined, entitled behavior? Wasn't it a form of turning away from reality into a blinkered cultivating-one's-garden solipsism? What right did anyone have to claim true happiness in our almost terminally unhappy world? And yet the heart knew what it knew, and insisted."
+
+* "All I've ever tried to do...is good work... and the right thing. That's all I've ever..."
+
+* "Had I, so to speak, made myself available for the knife? In other words-as so many people had said all along-was it my own fault? To be absolutely truthful, in those first, physically weak low-spirited days in the trauma ward in Erie, it was a question I asked myself. But as I grew stronger in body and mind, it was an analysis I rejected emphatically. To regret what your life has been is the true folly, I told myself, because the person doing the regretting has been shaped by the life he subsequently regrets. There were probably exceptions to this principle, but very few of the people who ought to regret their lives-Donald Trump, Boris Johnson, Adolf Eichmann, Harvey Weinstein-ever do so. At any rate: whether the general principle held up or not, in the situation in which I found myself it held up for me. I had had close to twenty-three years in New York living a full, rich life. There were mistakes along the way, plenty of those, and things I could have done better, and I do regret those, but my life in general? I'm glad I have lived it, and I've tried to live it as well as possible."
+
+* "New York City, in the late afternoon, shining in the sunlight. It did my heart good to see it again, its jolies-laides streets both generous and mean, so much talent in the air, so many rats underfoot, its people striding forth in summer shorts, its parks brightened by young girls in flower, its rusting metal bridges, its pinnacles, its terrible road surfaces, its everything-at-once-ness, its inexhaustible abundance, its crowded excess, and construction sites and music everywhere. Home."
+
+</i>
